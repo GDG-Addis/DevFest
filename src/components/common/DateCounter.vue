@@ -152,19 +152,16 @@ export default {
   border-radius: 15px;
 }
 
-.day span{
+.day span {
   background: #4285ef;
 }
-.hour span{
+.hour span {
   background: #e5433b;
 }
-.min span{
+.min span {
   background: #f7b926;
 }
-.sec span{
+.sec span {
   background: #1b9c58;
 }
-
-
-
 </style>
