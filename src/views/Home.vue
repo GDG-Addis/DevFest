@@ -23,8 +23,8 @@
           <span class="body-1 grey--text">
             <v-icon small>mdi-calendar</v-icon>Oct 26th, 2019
             <v-divider vertical color="white"></v-divider>
-            <a>
-              <span class="light-blue--text" to="/venue">&nbsp; &nbsp; @ Eliana Hotel</span>
+            <a href="#venue" style="text-decoration:none;cursor:pointer;">
+              <span class="light-blue--text">&nbsp; &nbsp; @ Eliana Hotel</span>
             </a>
           </span>
         </v-layout>
@@ -40,17 +40,18 @@
         flat
         @click="$vuetify.goTo(link.to, options)"
       >{{ link.text }}</v-btn>
+
       <!-- ToolBar GDGAddis -->
       <v-btn
         class="ml-0 google-font hidden-sm-and-down"
         style="text-transform: capitalize;"
         flat
-        to="/home"
+        to="/"
       >GDGAddis</v-btn>
     </v-toolbar>
 
     <!-- Banner -->
-    <v-container fluid class="pa-0" id="top" >
+    <v-container fluid class="pa-0" id="top">
       <v-layout row wrap justify-start fill-height>
         <Banner />
       </v-layout>
@@ -110,14 +111,13 @@
     </v-container>
 
     <!-- Venue -->
-     <v-container fluid id="venue">
+    <v-container fluid id="venue">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10>
           <Venue />
         </v-flex>
       </v-layout>
     </v-container>
-    
 
     <!-- Partners -->
     <v-container fluid id="partners">
@@ -127,7 +127,6 @@
         </v-flex>
       </v-layout>
     </v-container>
-    
 
     <!-- FAQ -->
     <v-container fluid style="background-color:#F0F0F0" id="faq">
@@ -139,14 +138,11 @@
     </v-container>
 
     <!-- DevFest18 -->
-     <v-container fluid class="pa-0" id="devfest18">
+    <v-container fluid class="pa-0" id="devfest18">
       <v-layout row wrap justify-start fill-height>
         <DevFest18 />
       </v-layout>
     </v-container>
-    
-
-
   </div>
 </template>
 
