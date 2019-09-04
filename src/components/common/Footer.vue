@@ -34,7 +34,6 @@
                   class="google-font"
                   target="_blank"
                   style="color: #3E4551;text-decoration: none;font-size:110%;"
-                  
                 >{{item.LinkName}}</a>
                 <br />
               </div>
@@ -42,30 +41,15 @@
 
             <v-flex xs12 md3 sm4 lg3 class="py-2">
               <p class="google-font mb-0" style="font-size: 140%;font-weight: 300;">
-                <b>Resources</b>
+                <b>Previous Developer Festival</b>
               </p>
-              <div v-for="(item,i) in FooterData.ChapterResourcesSession" :key="i" class="mt-1">
+              <div>
                 <a
-                  :href="item.Link"
+                  href="#"
                   class="google-font"
                   target="_blank"
                   style="color: #3E4551;text-decoration: none;font-size:110%"
-                >{{item.LinkName}}</a>
-                <br />
-              </div>
-            </v-flex>
-
-            <v-flex xs12 md3 sm4 lg3 class="py-2">
-              <p class="google-font mb-0" style="font-size: 140%;font-weight: 300;">
-                <strong>Developer Console</strong>
-              </p>
-              <div v-for="(item,i) in FooterData.DevConsole" :key="i" class="mt-1">
-                <a
-                  :href="item.Link"
-                  target="_blank"
-                  class="google-font"
-                  style="color: #3E4551;text-decoration: none;font-size:110%"
-                >{{item.LinkName}}</a>
+                >DevFest18</a>
                 <br />
               </div>
             </v-flex>

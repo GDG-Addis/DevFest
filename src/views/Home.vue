@@ -43,10 +43,10 @@
 
       <!-- ToolBar GDGAddis -->
       <v-btn
-        class="ml-0 google-font hidden-sm-and-down"
-        style="text-transform: capitalize;"
         flat
-        to="/"
+        href="https://www.gdgaddis.com"
+        target="_blank"
+        class="ml-0 google-font hidden-sm-and-down"
       >GDGAddis</v-btn>
     </v-toolbar>
 
@@ -136,13 +136,6 @@
         </v-flex>
       </v-layout>
     </v-container>
-
-    <!-- DevFest18 -->
-    <v-container fluid class="pa-0" id="devfest18">
-      <v-layout row wrap justify-start fill-height>
-        <DevFest18 />
-      </v-layout>
-    </v-container>
   </div>
 </template>
 
@@ -155,7 +148,6 @@ import Speakers from "@/components/home/Speakers";
 import Faq from "@/components/home/Faq";
 import Partners from "@/components/home/Partners";
 import Venue from "@/components/home/Venue";
-import DevFest18 from "@/components/home/DevFest18";
 
 export default {
   components: {
@@ -166,8 +158,7 @@ export default {
     Speakers,
     Faq,
     Partners,
-    Venue,
-    DevFest18
+    Venue
   },
   data() {
     return {
@@ -177,8 +168,7 @@ export default {
         { text: "Speakers", to: "#speakers", icon: "group" },
         { text: "Venue", to: "#venue", icon: "toc" },
         { text: "Partners", to: "#partners", icon: "toc" },
-        { text: "FAQ", to: "#faq", icon: "toc" },
-        { text: "DevFest18", to: "#devfest18", icon: "toc" }
+        { text: "FAQ", to: "#faq", icon: "toc" }
       ],
       options: {
         duration: 750,
