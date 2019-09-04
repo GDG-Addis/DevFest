@@ -163,11 +163,19 @@ export default {
   data() {
     return {
       links: [
-        { text: "About DevFest", to: "#aboutDevFest", icon: "mdi-information-outline" },
+        {
+          text: "About DevFest",
+          to: "#aboutDevFest",
+          icon: "mdi-information-outline"
+        },
         { text: "Agenda", to: "#agenda", icon: "mdi-view-agenda" },
         { text: "Speakers", to: "#speakers", icon: "mdi-microphone-outline" },
         { text: "Venue", to: "#venue", icon: "mdi-map-marker-radius" },
-        { text: "Partners", to: "#partners", icon: "toc" },
+        {
+          text: "Partners",
+          to: "#partners",
+          icon: "mdi-account-group-outline"
+        },
         { text: "FAQ", to: "#faq", icon: "mdi-frequently-asked-questions" }
       ],
       options: {
