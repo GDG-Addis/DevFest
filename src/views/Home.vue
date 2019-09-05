@@ -84,18 +84,24 @@
 
     <!-- Parallex -->
     <!-- <v-parallax :src="require('@/assets/img/devfest/devfest_banner.png')"></v-parallax> -->
-    <v-parallax dark :src="require('@/assets/img/devfest/vbanner.png')">
+    <v-parallax dark :src="require('@/assets/img/devfest/banner2.jpeg')">
       <v-layout align-center column justify-center>
-        <h1 class="display-2 font-weight-thin mb-3" style="color:black;">DevFest Addis 2019</h1>
+        <h1 class="display-2 font-weight-thin mb-3" style="color:white;">
+          DevFest Addis
+          <span style="color:#4285ef">2</span>
+          <span style="color:#e5433b">0</span>
+          <span style="color:#f7b926">1</span>
+          <span style="color:#1b9c58">9</span>
+        </h1>
         <h4
           class="subheading"
-          style="color:black;"
-        >The most anticipated developers festival! Join us and bring the spirit of DevFest to Ethiopia.</h4>
+          style="color:white;"
+        >The most anticipated developers festival! Join us and bring the spirit of #DevFest to Ethiopia.</h4>
         <v-btn
           href="https://www.meetup.com/GDG-Addis/events/262076561"
           class="mt-3"
           target="_blank"
-          color="primary"
+          style="border:2px solid;border-left-color:#4285ef;border-right-color:#f7b926;border-bottom-color:green;border-top-color:#e5433b;"
           outline
         >Reserve Now!</v-btn>
       </v-layout>
