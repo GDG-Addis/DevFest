@@ -1,6 +1,6 @@
 <template>
   <v-card color="white" height="60px" class="white hidden-sm-and-up" flat>
-    <v-bottom-nav :active.sync="bottomNav" :value="true" app color="white" class="elevation-2">
+    <v-bottom-nav :active.sync="bottomNav" :value="true" app color="#212121" class="elevation-2">
       <v-btn
         v-for="(item,key) in items"
         :key="key"
@@ -9,8 +9,8 @@
         :value="item.title"
         @click="$vuetify.goTo(item.route, options)"
       >
-        <span>{{item.title}}</span>
-        <v-icon>{{item.icon}}</v-icon>
+        <span style="color:#dddddd">{{item.title}}</span>
+        <v-icon style="color:#dddddd">{{item.icon}}</v-icon>
       </v-btn>
     </v-bottom-nav>
   </v-card>
