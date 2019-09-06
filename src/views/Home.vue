@@ -44,7 +44,7 @@
       <!-- ToolBar GDGAddis -->
       <v-btn
         flat
-        href="https://www.gdgaddis.com"
+        href="https://www.gdgaddis.dev"
         target="_blank"
         class="ml-0 google-font hidden-sm-and-down"
       >GDGAddis</v-btn>
@@ -84,22 +84,18 @@
 
     <!-- Parallex -->
     <!-- <v-parallax :src="require('@/assets/img/devfest/devfest_banner.png')"></v-parallax> -->
+
     <v-parallax dark :src="require('@/assets/img/devfest/banner2.jpeg')">
       <v-layout align-center column justify-center>
-        <h1 class="display-2 font-weight-thin mb-3" style="color:white;">
-          DevFest Addis
-          <span style="color:#4285ef">2</span>
-          <span style="color:#e5433b">0</span>
-          <span style="color:#f7b926">1</span>
-          <span style="color:#1b9c58">9</span>
-        </h1>
-        <h4
-          class="subheading"
-          style="color:white;"
-        >The most anticipated developers festival! Join us and bring the spirit of #DevFest to Ethiopia.</h4>
+        <h1 class="display-2 font-weight-thin mb-1" style="color:white;">DevFest Addis 2019</h1>
+        <span
+          class="ml-3"
+          style="color:white;font-size:20px;"
+        >The most anticipated developers festival! Join us and bring the spirit of #DevFest to Ethiopia.</span>
         <v-btn
           href="https://www.meetup.com/GDG-Addis/events/262076561"
-          class="mt-3"
+          class="mt-4"
+          style="color:white;"
           target="_blank"
           outline
         >Reserve Now!</v-btn>
