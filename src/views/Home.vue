@@ -101,7 +101,6 @@
           href="https://www.meetup.com/GDG-Addis/events/262076561"
           class="mt-3"
           target="_blank"
-          style="border:2px solid;border-left-color:#4285ef;border-right-color:#f7b926;border-bottom-color:green;border-top-color:#e5433b;"
           outline
         >Reserve Now!</v-btn>
       </v-layout>
