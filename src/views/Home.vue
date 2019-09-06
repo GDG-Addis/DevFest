@@ -13,7 +13,7 @@
     >
       <v-icon>mdi-chevron-up</v-icon>
     </v-btn>
-    <v-toolbar app height="55px" fixed dark>
+    <v-toolbar app height="60px" fixed dark>
       <v-toolbar-title class="ml-0 pl-1 mr-1">
         <v-layout column>
           <a href="#" style="text-decoration:none;cursor:pointer;">
@@ -21,9 +21,20 @@
           </a>
 
           <span class="body-1 grey--text">
-            <v-icon small>mdi-calendar</v-icon>Oct 26th, 2019
+            <v-icon small>mdi-calendar</v-icon>
+            <a
+              class="grey--text ml-1"
+              href="http://tiny.cc/CalenderNotify"
+              style="text-decoration:underline;cursor:pointer;"
+              target="_blank"
+            >Oct 26th, 2019</a>
+
             <v-divider vertical color="white"></v-divider>
-            <a href="#venue" style="text-decoration:none;cursor:pointer;">
+            <a
+              href="http://tiny.cc/EventVenue"
+              style="text-decoration:none;cursor:pointer;"
+              target="_blank"
+            >
               <span class="light-blue--text">&nbsp; &nbsp; @ Eliana Hotel</span>
             </a>
           </span>
