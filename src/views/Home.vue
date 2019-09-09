@@ -24,7 +24,7 @@
             <v-icon small>mdi-calendar</v-icon>
             <a
               class="grey--text ml-1"
-              href="http://tiny.cc/DevFest19Notify"
+              href="http://tiny.cc/DevFestAddisNotify"
               style="text-decoration:underline;cursor:pointer;"
               target="_blank"
             >Oct 26th, 2019</a>
