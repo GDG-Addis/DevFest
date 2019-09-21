@@ -2,8 +2,10 @@
   <v-container class="pa-0 my-0">
     <h2>Frequently Asked Questions</h2>
 
-    <p class="google-font" style="font-size:110%;padding:10px 0px;">Just few weeks to the biggest event of GDG Addis but... are you ready? We know that you could have some questions so we prepared for you a list of FAQs that may can help you..Anyway we are always open to solve any other doubt you could have, feel free to <a target="_blank" href="/Contact" 
-          style="text-decoration:none;"> contact us</a> in that case.</p>
+    <p class="google-font" style="font-size:110%;padding:10px 0px;">
+      Just few weeks to the biggest event of GDG Addis but... are you ready? We know that you could have some questions so we prepared for you a list of FAQs that may can help you..Anyway we are always open to solve any other doubt you could have, feel free to
+      <a target="_blank" href="/Contact" style="text-decoration:none;">contact us</a> in that case.
+    </p>
     <v-layout wrap align-start justify-space-between row fill-height>
       <v-flex xs12 sm6 md6 lg6>
         <v-expansion-panel>
@@ -34,16 +36,13 @@
 </template>
 
 <script>
-
 import FaqDetails from "@/assets/data/devfest/faq.json";
 export default {
-
   components: {},
-   data() {
+  data() {
     return {
       FaqDetails: FaqDetails
     };
-
-}
-}
+  }
+};
 </script>

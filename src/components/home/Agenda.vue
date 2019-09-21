@@ -39,7 +39,7 @@
                       <strong class="display-1 font-weight-regular mr-4">Comming Soon!</strong>
                       <v-layout column justify-end>
                         <!-- <div class="headline font-weight-light">Saturday</div>
-                        <div class="text-uppercase font-weight-light">October 2019</div> -->
+                        <div class="text-uppercase font-weight-light">October 2019</div>-->
                       </v-layout>
                     </v-layout>
                   </v-container>
@@ -108,7 +108,7 @@
                       </v-layout>
                     </v-timeline-item>
                   </v-timeline>
-                </v-card-text> -->
+                </v-card-text>-->
               </v-card>
             </v-tab-item>
           </v-tabs-items>
