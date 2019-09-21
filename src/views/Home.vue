@@ -27,7 +27,7 @@
               href="http://tiny.cc/DevFestNotify"
               style="text-decoration:underline;cursor:pointer;"
               target="_blank"
-            >Oct 26th, 2019</a>
+            >Nov 23rd, 2019</a>
 
             <v-divider vertical color="white"></v-divider>
             <a
