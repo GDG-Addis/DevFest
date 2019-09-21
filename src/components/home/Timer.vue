@@ -1,11 +1,11 @@
 <template>
   <v-container class="pa-2">
     <v-layout wrap align-center justify-center column fill-height>
-      <!-- Router View to Navigate through Admin Pages -->
-      <DateCounter
-        starttime="Oct 26, 2019 8:30:00"
-        endtime="Oct 26, 2019 20:00:00"
-        trans="{  
+        <!-- Router View to Navigate through Admin Pages -->
+        <DateCounter
+          starttime="Nov 23, 2019 8:30:00"
+          endtime="Nov 23, 2019 20:00:00"
+          trans='{  
          "day":"Days",
          "hours":"Hours",
          "minutes":"Minutes",
@@ -17,18 +17,13 @@
             "expired":"Expired",
             "running":"Running",
             "upcoming":"Future"
-           }}"
-      />
-
-      <v-btn
-        href="https://www.meetup.com/GDG-Addis/events/262076561"
-        target="_blank"
-        color="primary"
-        large
-        outline
-        flat
-      >Register</v-btn>
+           }}'
+        />
+      
+        <v-btn href="https://www.meetup.com/GDG-Addis/events/262076561" target="_blank" color="primary" large outline flat>Register</v-btn>
+        
     </v-layout>
+      
   </v-container>
 </template>
 

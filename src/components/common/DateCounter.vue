@@ -87,7 +87,7 @@ export default {
     },
     calcTime: function(dist) {
       // Time calculations for days, hours, minutes and seconds
-      this.days = Math.floor(dist / (1000 * 60 * 60 * 24));
+      this.days = Math.floor(dist / (1000 * 60 *  60 * 24));
       this.hours = Math.floor(
         (dist % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
       );
