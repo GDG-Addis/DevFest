@@ -1,6 +1,6 @@
 <template>
   <v-container class="pa-4 my-0">
-    <a href="http://tiny.cc/EventVenue" style="text-decoration:none;cursor:pointer;">
+    <a href="http://tiny.cc/EventVenue" style="text-decoration:none;cursor:pointer;" target="_blank">
       <v-layout
         wrap
         align-center
@@ -21,6 +21,7 @@
             <a
               href="https://www.meetup.com/GDG-Addis/events/262076561/"
               style="text-decoration:underline;color:white;"
+              target="_blank"
             >book your ticket for #DevFest19</a>
           </p>
         </v-flex>
