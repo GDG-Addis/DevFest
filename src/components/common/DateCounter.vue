@@ -1,5 +1,8 @@
 <template>
   <v-layout column justify-center align-center>
+
+<!-- <div width="100%">To make the Date Counter goes in alignment with all screen sizes  -->
+
     <div id="counterBody">
       <div class="day">
         <span class="number">{{ days }}</span>
@@ -22,6 +25,7 @@
       </div>
     </div>
     <!-- <div class="message">{{ message }}</div> -->
+    <!-- </div> To make the Date Counter goes in alignment with all screen sizes --> 
   </v-layout>
   <!-- <div class="status-tag">{{ statusText }}</div> -->
 </template>
