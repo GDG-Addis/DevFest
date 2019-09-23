@@ -16,11 +16,21 @@
     <v-toolbar app height="60px" fixed dark>
       <v-toolbar-title class="ml-0 pl-1 mr-1">
         <v-layout column>
-          <a href="#" style="text-decoration:none;cursor:pointer;">
-            <span class="google-font" style="color:#f8f8f8">DevFest Addis 2019</span>
-          </a>
+          <span class="google-font" style="color:#f8f8f8">
+            <a
+              href="https://www.gdgaddis.dev"
+              style="text-decoration:none;cursor:pointer;color:#f8f8f8"
+            >
+              <v-icon>mdi-arrow-left</v-icon>
+            </a>
+            <a
+              href="#"
+              class="google-font ml-1"
+              style="text-decoration:none;cursor:pointer;color:#f8f8f8"
+            >DevFest Addis 2019</a>
+          </span>
 
-          <span class="body-1 grey--text">
+          <span class="body-1 grey--text ml-1">
             <v-icon small>mdi-calendar</v-icon>
             <a
               class="grey--text ml-1"

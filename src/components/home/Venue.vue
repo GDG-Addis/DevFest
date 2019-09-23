@@ -1,7 +1,7 @@
 <template>
-  <v-container class="pa-4 my-0">
+  <v-container class="pa-4 my-0 ">
     <a
-      href="http://tiny.cc/EventVenue"
+      href="http://tiny.cc/DevFestVenue"
       style="text-decoration:none;cursor:pointer;"
       target="_blank"
     >
@@ -12,7 +12,7 @@
         row
         fill-height
         class="mt-2"
-        style="height:100%;width:100%;background-color:#00000;border-radius:10px;cursor: pointer;"
+        style="height:100%;width:100%;background-color:#212121;border-radius:10px;cursor: pointer;"
       >
         <v-flex xs12 sm4 md2 lg2 class="pa-4"></v-flex>
         <v-flex xs12 sm8 md10 lg10 class="pa-2 py-4 px-3">

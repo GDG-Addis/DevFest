@@ -45,7 +45,7 @@
               </p>
               <div>
                 <a
-                  href="#"
+                  href="http://tiny.cc/DevFest18HighLights"
                   class="google-font"
                   target="_blank"
                   style="color: #3E4551;text-decoration: none;font-size:110%"
@@ -61,10 +61,10 @@
         <v-flex xs12 md10 lg10>
           <v-divider></v-divider>
           <v-toolbar flat color="white" class="pa-0 mx-0" style="padding:0 !important">
-            <v-toolbar-title
-              class="google-font pl-0 ml-0 mr-3"
-              style="font-size:200%"
-            >{{ChapterDetails.ChapterName}}</v-toolbar-title>
+            <v-toolbar-title class="google-font pl-0 ml-0 mr-3" style="font-size:200%">
+              <a href="https://www.gdgaddis.dev" target="_blank" style="text-decoration:none;cursor:pointer;color:#212121">{{ChapterDetails.ChapterName}}</a>
+            </v-toolbar-title>
+           
 
             <v-btn
               v-for="(item,i) in FooterData.FooterEndSession"
