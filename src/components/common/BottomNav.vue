@@ -24,7 +24,7 @@ export default {
       bottomNav: "recent",
       items: [
         {
-          title: "About DevFest",
+          title: "DevFest",
           icon: "mdi-information-outline",
           route: "#aboutDevFest"
         },
@@ -35,6 +35,11 @@ export default {
           route: "#speakers"
         },
         { title: "Venue", icon: "mdi-map-marker-radius", route: "#venue" }
+        ,
+        { title: "Partners", icon: "mdi-account-multiple", route: "#partners" }
+        ,
+        { title: "FAQ", icon: "mdi-frequently-asked-questions", route: "#faq" }
+        
       ],
       options: {
         duration: 750,
