@@ -31,7 +31,7 @@
 
             <v-divider vertical color="white"></v-divider>
             <a
-              href="http://tiny.cc/EventVenue"
+              href="http://tiny.cc/DevFestVenue"
               style="text-decoration:none;cursor:pointer;"
               target="_blank"
             >
