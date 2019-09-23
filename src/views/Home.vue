@@ -25,7 +25,7 @@
             </a>
             <a
               href="#"
-              class="google-font ml-1"
+              class="google-font ml-2"
               style="text-decoration:none;cursor:pointer;color:#f8f8f8"
             >DevFest Addis 2019</a>
           </span>
@@ -61,14 +61,6 @@
         flat
         @click="$vuetify.goTo(link.to, options)"
       >{{ link.text }}</v-btn>
-
-      <!-- ToolBar GDGAddis -->
-      <v-btn
-        flat
-        href="https://www.gdgaddis.dev"
-        target="_blank"
-        class="ml-0 google-font hidden-sm-and-down"
-      >GDGAddis</v-btn>
     </v-toolbar>
 
     <!-- Banner -->
