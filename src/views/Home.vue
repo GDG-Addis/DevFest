@@ -17,12 +17,11 @@
       <v-toolbar-title class="ml-0 pl-1 mr-1">
         <v-layout column>
           <span class="google-font" style="color:#f8f8f8">
-           
             <a
               href="#"
               class="google-font ml-2"
               style="text-decoration:none;cursor:pointer;color:#f8f8f8"
-            >DevFest Addis 2019</a>
+            >HomeData.devFestTitle</a>
           </span>
 
           <span class="body-1 grey--text ml-1">
@@ -32,7 +31,7 @@
               href="http://tiny.cc/DevFestNotify"
               style="text-decoration:underline;cursor:pointer;"
               target="_blank"
-            >Nov 23rd, 2019</a>
+            >HomeData.calender</a>
 
             <v-divider vertical color="white"></v-divider>
             <a
@@ -40,7 +39,7 @@
               style="text-decoration:none;cursor:pointer;"
               target="_blank"
             >
-              <span class="light-blue--text">&nbsp; &nbsp; @ Grand Eliana Hotel</span>
+              <span class="light-blue--text">&nbsp; &nbsp;HomeData.venue</span>
             </a>
           </span>
         </v-layout>
@@ -83,29 +82,24 @@
 
     <!-- Agenda -->
     <v-container fluid class="back" id="agenda">
-      <v-layout  wrap align-center justify-center row fill-height>
+      <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class>
           <Agenda />
         </v-flex>
       </v-layout>
     </v-container>
 
-    <!-- Parallex -->
-    <!-- <v-parallax :src="require('@/assets/img/devfest/devfest_banner.png')"></v-parallax> -->
-
     <v-parallax dark :src="require('@/assets/img/devfest/banner2.jpeg')">
       <v-layout align-center column justify-center>
-        <h1 class="display-2 font-weight-thin mb-1" style="color:white;">DevFest Addis 2019</h1>
-        <span
-          style="color:white;font-size:20px;"
-        >The most anticipated developers festival! Join us and bring the spirit of #DevFest to Ethiopia.</span>
+        <h1 class="display-2 font-weight-thin mb-1" style="color:white;">HomeData.devFestTitle</h1>
+        <span style="color:white;font-size:20px;">HomeData.devFestDesc</span>
         <v-btn
           href="https://www.meetup.com/GDG-Addis/events/262076561"
           class="mt-4"
           style="color:white;"
           target="_blank"
           outline
-        >Reserve Now!</v-btn>
+        >HomeData.actionBtn</v-btn>
       </v-layout>
     </v-parallax>
 
@@ -166,6 +160,7 @@ import Faq from "@/components/home/Faq";
 import Partners from "@/components/home/Partners";
 import Venue from "@/components/home/Venue";
 import LastYearMemory from "@/components/home/LastYearMemory";
+import HomeData from "@/assets/data/devfest/home";
 
 export default {
   components: {
@@ -181,6 +176,7 @@ export default {
   },
   data() {
     return {
+      HomeData: HomeData,
       links: [
         {
           text: "About DevFest",
@@ -195,7 +191,11 @@ export default {
           to: "#partners",
           icon: "mdi-account-group-outline"
         },
-        { text: "DevFest 2018", to: "#devFest2018", icon: "mdi-frequently-asked-questions" },
+        {
+          text: "DevFest 2018",
+          to: "#devFest2018",
+          icon: "mdi-frequently-asked-questions"
+        },
         { text: "FAQ", to: "#faq", icon: "mdi-frequently-asked-questions" }
       ],
       options: {
@@ -210,7 +210,7 @@ export default {
 
 <style scoped>
 .back {
-  background-image: url(https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2FDevFest-Twitter-Banner.png?alt=media&token=a3dc6964-42e5-4451-a04e-2bc6726fd356);
+  background-image: url(http://tiny.cc/bgImageDevFest);
 
   background-size: cover;
 }
@@ -218,7 +218,7 @@ export default {
   background: none;
 }
 .layer {
-  background-color:rgba(0, 0, 0, 0.075);
+  background-color: rgba(0, 0, 0, 0.075);
 }
 </style>
 
