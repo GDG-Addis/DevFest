@@ -1,14 +1,14 @@
-# GDG Addis Platform
+# DevFest WebApp Site
 
-<img width="100%" src="https://raw.githubusercontent.com/GDG-Addis/GDGAddisPlatform/master/src/assets/img/gdg_platfrom_screenshot.png">
+<img width="100%" src="https://drive.google.com/open?id=1Hr30dYL0Y45hn7n_8OUnSDienu0eppZI">
 
-A Standard Platfrom for GDG Addis Community. <br>
-[Demo](https://gdg-addis-platform.firebaseapp.com/) <br>
+A Standard WebApp for the annual developers festival, #DevFest. <br>
+[Live](http://devfest.gdgaddis.dev) <br>
 Version: 1.0.1
 
 ## Overview
 
-GDG Addis Platform is a progressive web app platform that helps GDG Addis's Community easily follow up with events, team and  management, forums, job/internships and more.  
+DevFest WebApp is a progressive web app platform that helps GDG Addis's Community easily follow up with the Developer Festival Activities such as Agenda, Speakers, Codelabs and more.  
 The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) team and [Here](https://github.com/Vrijraj/aura/) is the original repository.
 
 ## Features
