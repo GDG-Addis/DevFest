@@ -2,7 +2,6 @@
   <v-container class="pa-0 my-0" grid-list-lg>
     <v-layout column>
       <span class="google-font mt-2 mb-0" style="font-size:170%;color:#37474F;">DevFest Speakers</span>
-   
     </v-layout>
 
     <v-dialog
@@ -16,10 +15,8 @@
       <template v-if="currentSpeaker">
         <v-card>
           <v-card-title primary-title>
-            <v-avatar
-              size="40"
-            >
-              <img :src="require(`@/assets/img/${currentSpeaker.photo}`)">
+            <v-avatar size="40">
+              <img :src="require(`@/assets/img/${currentSpeaker.photo}`)" />
             </v-avatar>
             <v-layout column>
               <span class="mx-2">{{currentSpeaker.name}}</span>
@@ -79,7 +76,6 @@
         </v-card>
       </v-flex>
     </v-layout>
-
   </v-container>
 </template>
 
@@ -102,7 +98,7 @@ export default {
     },
     closeDialog() {
       this.currentSpeaker = null;
-      this.dialog = false
+      this.dialog = false;
     }
   }
 };

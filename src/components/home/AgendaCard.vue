@@ -3,13 +3,15 @@
     <v-layout wrap align-start justify-start row fill-height class="my-0">
       <v-flex xs12 class="pa-2 my-0">
         <template v-if="agenda">
-          <v-card class="mx-auto elevation-4" >
+          <v-card class="mx-auto elevation-4">
             <v-card light flat color="#F8F9FF">
               <v-container fill-height>
                 <v-layout align-center>
                   <!-- <strong class="display-4 font-weight-regular mr-4">26</strong> -->
                   <v-layout column justify-end>
-                    <strong class="text-uppercase google-font title font-weight-thin ">{{agenda.name}}</strong>
+                    <strong
+                      class="text-uppercase google-font title font-weight-thin"
+                    >{{agenda.name}}</strong>
                     <div class="font-weight-light">{{agenda.venue}}</div>
                   </v-layout>
                 </v-layout>
@@ -35,14 +37,10 @@
                       <div class="caption">{{program.description}}</div>
                       <!-- <div class="caption">By: {{program.speaker}}</div> -->
                       <template v-for="(img,j) in program.photos">
-                          <v-avatar :key="j">
-                        <v-img
-                        :src="img"
-                        contain
-                        ></v-img>
-                      </v-avatar>
+                        <v-avatar :key="j">
+                          <v-img :src="img" contain></v-img>
+                        </v-avatar>
                       </template>
-                      
                     </v-flex>
                     <v-spacer></v-spacer>
                     <!-- Actions -->
