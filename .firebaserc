@@ -1,5 +1,14 @@
 {
   "projects": {
-    "default": "gdg-addis-platform"
+    "default": "devfestaddis-83f0e"
+  },
+  "targets": {
+    "devfestaddis-83f0e": {
+      "hosting": {
+        "devfest": [
+          "devfestaddisababa"
+        ]
+      }
+    }
   }
 }

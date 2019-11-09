@@ -9,7 +9,7 @@
       absolute
       fixed
       @click.native.stop="$vuetify.goTo('*', options)"
-      class="mb-5 hidden-md-and-down"
+      style="margin-bottom:100px"
     >
       <v-icon>mdi-chevron-up</v-icon>
     </v-btn>
@@ -17,12 +17,7 @@
       <v-toolbar-title class="ml-0 pl-1 mr-1">
         <v-layout column>
           <span class="google-font" style="color:#f8f8f8">
-            <a
-              href="https://www.gdgaddis.dev"
-              style="text-decoration:none;cursor:pointer;color:#f8f8f8"
-            >
-              <v-icon>mdi-arrow-left</v-icon>
-            </a>
+           
             <a
               href="#"
               class="google-font ml-2"
@@ -45,7 +40,7 @@
               style="text-decoration:none;cursor:pointer;"
               target="_blank"
             >
-              <span class="light-blue--text">&nbsp; &nbsp; @ Eliana Hotel</span>
+              <span class="light-blue--text">&nbsp; &nbsp; @ Grand Eliana Hotel</span>
             </a>
           </span>
         </v-layout>
@@ -87,8 +82,8 @@
     </v-container>
 
     <!-- Agenda -->
-    <v-container fluid class style="background-color:#444" id="agenda">
-      <v-layout wrap align-center justify-center row fill-height>
+    <v-container fluid class="back" id="agenda">
+      <v-layout  wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class>
           <Agenda />
         </v-flex>
@@ -102,7 +97,6 @@
       <v-layout align-center column justify-center>
         <h1 class="display-2 font-weight-thin mb-1" style="color:white;">DevFest Addis 2019</h1>
         <span
-          class="ml-3"
           style="color:white;font-size:20px;"
         >The most anticipated developers festival! Join us and bring the spirit of #DevFest to Ethiopia.</span>
         <v-btn
@@ -142,6 +136,15 @@
       </v-layout>
     </v-container>
 
+    <!-- Last Year Memories -->
+    <v-container fluid id="devFest2018">
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs12 md10>
+          <LastYearMemory />
+        </v-flex>
+      </v-layout>
+    </v-container>
+
     <!-- FAQ -->
     <v-container fluid style="background-color:#F0F0F0" id="faq">
       <v-layout wrap align-center justify-center row fill-height>
@@ -162,6 +165,7 @@ import Speakers from "@/components/home/Speakers";
 import Faq from "@/components/home/Faq";
 import Partners from "@/components/home/Partners";
 import Venue from "@/components/home/Venue";
+import LastYearMemory from "@/components/home/LastYearMemory";
 
 export default {
   components: {
@@ -172,7 +176,8 @@ export default {
     Speakers,
     Faq,
     Partners,
-    Venue
+    Venue,
+    LastYearMemory
   },
   data() {
     return {
@@ -190,6 +195,7 @@ export default {
           to: "#partners",
           icon: "mdi-account-group-outline"
         },
+        { text: "DevFest 2018", to: "#devFest2018", icon: "mdi-frequently-asked-questions" },
         { text: "FAQ", to: "#faq", icon: "mdi-frequently-asked-questions" }
       ],
       options: {
@@ -201,4 +207,18 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.back {
+  background-image: url(https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2FDevFest-Twitter-Banner.png?alt=media&token=a3dc6964-42e5-4451-a04e-2bc6726fd356);
+
+  background-size: cover;
+}
+#inspire {
+  background: none;
+}
+.layer {
+  background-color:rgba(0, 0, 0, 0.075);
+}
+</style>
 

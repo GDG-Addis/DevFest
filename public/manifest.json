@@ -1,6 +1,6 @@
 {
-  "name": "GDG Web App",
-  "short_name": "GDG Web App",
+  "name": "DevFest Addis",
+  "short_name": "DevFest",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
@@ -13,9 +13,9 @@
       "type": "image/png"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#ffff",
   "theme_color": "#0277bd",
-  "description": "Aura is the website template that helps you to set GDG's Communities website with events, team and management in a few minutes."
+  "description": "DevFest is annual developers festival that brings all amazing innovators together to share experience and learn from experts. It also offers lots of fun and amazing moments."
 }

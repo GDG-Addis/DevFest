@@ -1,5 +1,5 @@
 <template>
-  <v-footer color="white" height="auto" class="hidden-sm-and-down">
+  <v-footer color="white" height="auto">
     <v-container
       fluid
       style="border-color:#e0e0e0;border-width: 1px;border-style: solid;border-bottom: 0"
@@ -75,12 +75,14 @@
         <v-flex xs12 md10 lg10>
           <v-divider></v-divider>
           <v-toolbar flat color="white" class="pa-0 mx-0" style="padding:0 !important">
+            <img :src="require('@/assets/img/logo.png')" aspect-ratio="1.0" width="60" height="60" />
             <v-toolbar-title class="google-font pl-0 ml-0 mr-3" style="font-size:200%">
+              
               <a
                 href="https://www.gdgaddis.dev"
                 target="_blank"
                 style="text-decoration:none;cursor:pointer;color:#212121"
-              >{{ChapterDetails.ChapterName}}</a>
+              > {{ChapterDetails.ChapterName}}</a>
             </v-toolbar-title>
 
             <v-btn
@@ -92,7 +94,12 @@
               style="text-transform: capitalize;font-size:110%"
               flat
             >{{ item.LinkName }}</v-btn>
+
+            <v-spacer></v-spacer>
+
           </v-toolbar>
+          <span class="caption">This website is PWA and works offline. If you are on mobile phone, get the best out of it by adding to your home screen to use it like an app.</span>
+
         </v-flex>
       </v-layout>
     </v-container>

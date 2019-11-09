@@ -1,13 +1,31 @@
-[
-    {
-        "name":"GDG",
-        "link":"https://developers.google.com/groups",
-        "img":"gdglogo.png"
-    },
-    {
-        "name":"WomenTechmakers",
-        "link":"https://www.womentechmakers.com/",
-        "img":"wtm.png"
-    }
-
-]
+{
+    "sponsors": [
+        {
+            "name": "Google Developers",
+            "link": "https://developers.google.com/groups",
+            "img": "gdglogo.png"
+        },
+        {
+            "name": "Women Techmakers",
+            "link": "https://www.womentechmakers.com/",
+            "img": "wtm.png"
+        }
+    ],
+    "partners": [
+        {
+            "name": "JetBrains",
+            "link": "https://www.jetbrains.com/",
+            "img": "jetbrains.png"
+        },
+        {
+            "name": "Eliana Hotel",
+            "link": "https://www.elianahotel.com/",
+            "img": "eliana_hotel.png"
+        },
+        {
+            "name": "IBrave Softare Engineering",
+            "link": "https://ibrave.dev/",
+            "img": "ibrave.png"
+        }
+    ]
+}

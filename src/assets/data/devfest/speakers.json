@@ -1,0 +1,59 @@
+[
+ 
+    {
+        "name": "Rohit Ghosh",
+        "job": "Founding Member of Qure.ai; GDE for ML",
+        "photo": "devfest/speakers/rohit_ghosh.jpg",
+        "company": "Qure.ai",
+        "email": "rohitghosh177@gmail.com",
+        "twitter": "https://twitter.com/_rohitghosh",
+        "linkdin": "https://www.linkedin.com/in/rohit-ghosh-iit/",
+        "blog": "https://rohitghosh.github.io/",
+        "website": "http://qure.ai/",
+        "bio": [
+            "Rohit is a TEDx Speaker and Founding Member of Qure.ai and Google Developer Expert for Machine Learning. He also co-authored two books, published by Wiley and Springer. His lectures on teaching ML is available on YouTube. Rohit’s most recent co-authored research was published in The Lancet - world’s oldest and most prestigious general medical journal. In fact, this was The Lancet's first ever publication on AI-in-imaging.",
+            "Rohit is a graduate from IIT Bombay - India's most premier technology institute. He has worked as data science consultant to multiple global EdTech startups in developing their data science course curriculum. He’s also a Faculty for Machine Learning at multiple data science startups, and of late been a Visiting Faculty at NMIMS University. Rohit had also been invited in the past to conduct multiple data science workshops in Manchester & London for business executives.",
+            "In his work as AI Scientist, he has closely worked with Yale School of Medicine on applications of AI in predicting survival for cardiac failure patients which was later published in Journal of American Heart Association. He has also presented his research at the European Society of Radiology Conference, 2018 at Vienna, Austria. His other co-authored research was presented at annual conferences (2017, 2018) by Radiological Society of North America at Chicago, USA. His research work was also accepted for presentation at annual conference organised by African Society of Radiology at Cairo, Egypt."
+        ]
+    },
+    {
+        "name": "Robel Mulugeta",
+        "job": "American Center ,Administrator support",
+        "photo": "devfest/speakers/robel_mulugeta.jpg",
+        "company": "Next Tech Solutions",
+        "email": "robelmulugeta65@gmail.com",
+        "twitter": "",
+        "linkdin": "https://www.linkedin.com/in/robel-mulugeta-390227140/",
+        "blog": "",
+        "website": "http://www.nexttechethiopia.com/",
+        "bio": [
+            "a computer engineering student at Hawass university, I won 2 times national level computation and 4 times the regional level in the science and technology field. had experience in hardware programming and design , had degree in management and skill in networking."
+        ]
+    },
+    {
+        "name": "Biniam Yayehyirad",
+        "job": "Country Manager @ Camara Education",
+        "photo": "devfest/speakers/biniam_yayehyirad.jpg",
+        "company": "Camara Education",
+        "email": "ybiniam@hotmail.com",
+        "twitter": "https://twitter.com/camaraeducation",
+        "linkdin": "https://www.linkedin.com/in/yayehyiradbiniam/",
+        "blog": "",
+        "website": "https://camara.org/",
+        "bio": ["Biniam Yayehyirad is the Country Manager of Camara Education Ethiopia, an international NGO dedicated to delivering real impact through technology. As a tech enthusiast, he believes that education is the key to alleviating poverty, and that technology has the ability to radically improve it. As such, using the social enterprise model, Biniam has been working to support schools in Ethiopia with ICT integration in Education, and aspires to see every student in Ethiopia uplifted thanks to technology."]
+    },
+
+    {
+        "name": "Tesfamichael Molla",
+        "job": "TME Education ambassador in Ethiopia",
+        "photo": "devfest/speakers/tesfamichael_molla.jpg",
+        "company": "Camara Education",
+        "email": "hope.miky1074@gmail.com",
+        "twitter": "https://twitter.com/hopemichael1074",
+        "linkdin": "https://www.linkedin.com/in/tesfamichael-molla-989236171/",
+        "blog": "",
+        "website": "https://tmeeducation.com/en-ET",
+        "bio": ["Experienced Computer Engineer skilled in machine learning, Computer vision, Python, Embedded C, and Arduino. Strong engineering professional with a Bachelor of Science - BS focused on Electrical and computer engineering from Wolkite University. Ambassador of TME education in Ethiopia"]
+    }
+
+]

@@ -1,31 +1,50 @@
 <template>
   <v-layout column justify-center align-center>
 
-<!-- <div width="100%">To make the Date Counter goes in alignment with all screen sizes  -->
-
-    <div id="counterBody">
-      <div class="day">
+<!-- To make the Date Counter goes in alignment with all screen sizes  -->
+<div width="100%" id="counterBody">
+  <v-container grid-list-md class="pa-0">
+    
+ 
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs3>
+          <div class="day">
         <span class="number">{{ days }}</span>
         <div class="format">{{ wordString.day }}</div>
       </div>
+        </v-flex>
 
-      <div class="hour pa-2">
+        <v-flex xs3>
+          <div class="hour">
         <span class="number">{{ hours }}</span>
         <div class="format">{{ wordString.hours }}</div>
       </div>
+        </v-flex>
 
-      <div class="min">
+        <v-flex xs3>
+          <div class="min">
         <span class="number">{{ minutes }}</span>
         <div class="format">{{ wordString.minutes }}</div>
       </div>
+        </v-flex>
 
-      <div class="sec">
+        <v-flex xs3>
+          <div class="sec">
         <span class="number">{{ seconds }}</span>
         <div class="format">{{ wordString.seconds }}</div>
       </div>
-    </div>
+        </v-flex>
+
+      </v-layout>
+
+       </v-container>
+      
+
+      
+
+   
     <!-- <div class="message">{{ message }}</div> -->
-    <!-- </div> To make the Date Counter goes in alignment with all screen sizes --> 
+    </div> 
   </v-layout>
   <!-- <div class="status-tag">{{ statusText }}</div> -->
 </template>
@@ -122,7 +141,7 @@ export default {
   display: inline-block;
   font-weight: 500;
   text-align: center;
-  margin: 0 5px;
+
 }
 
 .format {

@@ -8,9 +8,6 @@
         <v-icon>close</v-icon>
       </v-btn>
     </v-snackbar>
-
-    <CoreToolbar />
-    <CoreDrawer />
     <CoreView />
 
     <CoreFooter />
@@ -19,8 +16,6 @@
 </template>
 
 <script>
-import CoreDrawer from "@/components/common/Drawer";
-import CoreToolbar from "@/components/common/Toolbar";
 import CoreFooter from "@/components/common/Footer";
 import CoreView from "@/components/common/View";
 import BottomNav from "@/components/common/BottomNav";
@@ -28,8 +23,6 @@ import BottomNav from "@/components/common/BottomNav";
 export default {
   name: "App",
   components: {
-    CoreDrawer,
-    CoreToolbar,
     CoreFooter,
     CoreView,
     BottomNav
