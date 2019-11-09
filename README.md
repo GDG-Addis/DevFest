@@ -1,6 +1,6 @@
 # DevFest WebApp Site
 
-<img width="100%" src="https://drive.google.com/open?id=1Hr30dYL0Y45hn7n_8OUnSDienu0eppZI">
+<img width="100%" src="./DevFest19README.png">
 
 A Standard WebApp for the annual developers festival, #DevFest. <br>
 [Live](http://devfest.gdgaddis.dev) <br>
