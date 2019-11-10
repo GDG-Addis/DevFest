@@ -39,7 +39,14 @@
               <v-container grid-list-md fluid class="pa-0 ma-0">
                 <v-layout row wrap justify-space-between class="ma-0 pa-0">
                   <v-flex v-for="(item,imageIndex) in images" :key="imageIndex" xs6 md4 sm4 d-flex>
-                    <v-img @click="index = imageIndex"  :src="item" :lazy-src="item" aspect-ratio="2.0" class="white" v-on="on">
+                    <v-img
+                      @click="index = imageIndex"
+                      :src="item"
+                      :lazy-src="item"
+                      aspect-ratio="2.0"
+                      class="white"
+                      v-on="on"
+                    >
                       <v-layout slot="placeholder" fill-height align-center justify-center ma-0>
                         <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
                       </v-layout>
