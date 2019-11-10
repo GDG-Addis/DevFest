@@ -21,7 +21,7 @@
               href="#"
               class="google-font ml-2"
               style="text-decoration:none;cursor:pointer;color:#f8f8f8"
-            >HomeData.devFestTitle</a>
+            >{{HomeData.devFestTitle}}</a>
           </span>
 
           <span class="body-1 grey--text ml-1">
@@ -31,7 +31,7 @@
               href="http://tiny.cc/DevFestNotify"
               style="text-decoration:underline;cursor:pointer;"
               target="_blank"
-            >HomeData.calender</a>
+            >{{HomeData.calender}}</a>
 
             <v-divider vertical color="white"></v-divider>
             <a
@@ -39,7 +39,7 @@
               style="text-decoration:none;cursor:pointer;"
               target="_blank"
             >
-              <span class="light-blue--text">&nbsp; &nbsp;HomeData.venue</span>
+              <span class="light-blue--text">&nbsp; &nbsp;{{HomeData.venue}}</span>
             </a>
           </span>
         </v-layout>
@@ -91,15 +91,15 @@
 
     <v-parallax dark :src="require('@/assets/img/devfest/banner2.jpeg')">
       <v-layout align-center column justify-center>
-        <h1 class="display-2 font-weight-thin mb-1" style="color:white;">HomeData.devFestTitle</h1>
-        <span style="color:white;font-size:20px;">HomeData.devFestDesc</span>
+        <h1 class="display-2 font-weight-thin mb-1" style="color:white;">{{HomeData.devFestTitle}}</h1>
+        <span style="color:white;font-size:20px;">{{HomeData.devFestDesc}}</span>
         <v-btn
           href="https://www.meetup.com/GDG-Addis/events/262076561"
           class="mt-4"
           style="color:white;"
           target="_blank"
           outline
-        >HomeData.actionBtn</v-btn>
+        >{{HomeData.actionBtn}}</v-btn>
       </v-layout>
     </v-parallax>
 
@@ -160,7 +160,7 @@ import Faq from "@/components/home/Faq";
 import Partners from "@/components/home/Partners";
 import Venue from "@/components/home/Venue";
 import LastYearMemory from "@/components/home/LastYearMemory";
-import HomeData from "@/assets/data/devfest/home";
+import HomeData from "@/assets/data/devfest/home.json";
 
 export default {
   components: {

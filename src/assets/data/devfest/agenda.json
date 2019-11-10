@@ -1,176 +1,242 @@
 {
-    "common": {
-        "name": "Common Session",
-        "venue": "Main Hall",
-        "programs": [
-            {
-                "time": "8:00 AM",
-                "topic": "Registration",
-                "description": "Registration and Reception Program",
-                "Speaker": "GDG Addis team",
-                "company": "GDG Addis",
-                "type": "",
-                "photos": ["https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"],
-                "Requirements": "Meetup reservation is required",
-                "icon": "mdi-pencil",
-                "isBreak": false
-            },
-            {
-                "time": "9:30 AM",
-                "topic": "[TBD]",
-                "description": "[TBD]",
-                "speaker": "Awal Mohammed",
-                "company": "Google",
-                "type": "Keynote",
-                "photos": [],
-                "tequirements": "Attention is required",
-                "icon": "mdi-speaker",
-                "isBreak": false
-            },
-            {
-                "time": "10:00 AM",
-                "topic": "Building AI: What it really takes?",
-                "description": "[TBD]",
-                "speaker": "Rohit",
-                "company": "Google",
-                "type": "Keynote",
-                "photos": [],
-                "tequirements": "Attention is required",
-                "icon": "mdi-speaker",
-                "isBreak": false
-            }
-
-        ]
-
-    },
-    "track1": {
-        "name": "Track 1",
-        "venue": "Parition 1",
-        "programs": [
-            {
-                "time": "8:00 AM",
-                "topic": "Registration",
-                "description": "Registration and Reception Program",
-                "Speaker": "GDG Addis team",
-                "company": "GDG Addis",
-                "type": "",
-                "photos": ["https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"],
-                "Requirements": "Meetup reservation is required",
-                "icon": "mdi-pencil",
-                "isBreak": false
-            },
-            {
-                "time": "9:30 AM",
-                "topic": "[TBD]",
-                "description": "[TBD]",
-                "speaker": "Awal Mohammed",
-                "company": "Google",
-                "type": "Keynote",
-                "photos": [],
-                "tequirements": "Attention is required",
-                "icon": "mdi-speaker",
-                "isBreak": false
-            },
-            {
-                "time": "10:00 AM",
-                "topic": "Building AI: What it really takes?",
-                "description": "[TBD]",
-                "speaker": "Rohit",
-                "company": "Google",
-                "type": "Keynote",
-                "photos": [],
-                "tequirements": "Attention is required",
-                "icon": "mdi-speaker",
-                "isBreak": false
-            }
-
-        ]
-    },
-    "track2": {
-        "name": "Track 2",
-        "venue": "Parition 2",
-        "programs": [
-            {
-                "time": "8:00 AM",
-                "topic": "Registration",
-                "description": "Registration and Reception Program",
-                "Speaker": "GDG Addis team",
-                "company": "GDG Addis",
-                "type": "",
-                "photos": ["https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"],
-                "Requirements": "Meetup reservation is required",
-                "icon": "mdi-pencil",
-                "isBreak": false
-            },
-            {
-                "time": "9:30 AM",
-                "topic": "[TBD]",
-                "description": "[TBD]",
-                "speaker": "Awal Mohammed",
-                "company": "Google",
-                "type": "Keynote",
-                "photos": [],
-                "tequirements": "Attention is required",
-                "icon": "mdi-speaker",
-                "isBreak": false
-            },
-            {
-                "time": "10:00 AM",
-                "topic": "Building AI: What it really takes?",
-                "description": "[TBD]",
-                "speaker": "Rohit",
-                "company": "Google",
-                "type": "Keynote",
-                "photos": [],
-                "tequirements": "Attention is required",
-                "icon": "mdi-speaker",
-                "isBreak": false
-            }
-
-        ]
-    },
-    "track3": {
-        "name": "Track 3",
-        "venue": "Parition 3",
-        "programs": [
-            {
-                "time": "8:00 AM",
-                "topic": "Registration",
-                "description": "Registration and Reception Program",
-                "Speaker": "GDG Addis team",
-                "company": "GDG Addis",
-                "type": "",
-                "photos": ["https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"],
-                "Requirements": "Meetup reservation is required",
-                "icon": "mdi-pencil",
-                "isBreak": false
-            },
-            {
-                "time": "9:30 AM",
-                "topic": "[TBD]",
-                "description": "[TBD]",
-                "speaker": "Awal Mohammed",
-                "company": "Google",
-                "type": "Keynote",
-                "photos": [],
-                "tequirements": "Attention is required",
-                "icon": "mdi-speaker",
-                "isBreak": false
-            },
-            {
-                "time": "10:00 AM",
-                "topic": "Building AI: What it really takes?",
-                "description": "[TBD]",
-                "speaker": "Rohit",
-                "company": "Google",
-                "type": "Keynote",
-                "photos": [],
-                "tequirements": "Attention is required",
-                "icon": "mdi-speaker",
-                "isBreak": false
-            }
-
-        ]
-    }
-    
+  "common": {
+    "name": "Common Session",
+    "venue": "Main Hall",
+    "programs": [
+      {
+        "time": "8:00 AM",
+        "topic": "Registration",
+        "description": "Registration and Reception Program",
+        "Speaker": "GDG Addis team",
+        "company": "GDG Addis",
+        "type": "",
+        "photos": [
+          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
+        ],
+        "Requirements": "Meetup reservation is required",
+        "icon": "mdi-pencil",
+        "isBreak": false
+      },
+      {
+        "time": "9:30 AM",
+        "topic": "[TBD]",
+        "description": "[TBD]",
+        "speaker": "Awal Mohammed",
+        "company": "Google",
+        "type": "Keynote",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-speaker",
+        "isBreak": false
+      },
+      {
+        "time": "10:00 AM",
+        "topic": "Building AI: What it really takes?",
+        "description": "[TBD]",
+        "speaker": "Rohit",
+        "company": "Google",
+        "type": "Keynote",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-speaker",
+        "isBreak": false
+      },
+      {
+        "time": "10:35 AM",
+        "topic": "[TBD]",
+        "description": "[TBD]",
+        "speaker": "Kaleab",
+        "company": "[TBD]",
+        "type": "Keynote",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-speaker",
+        "isBreak": false
+      }
+    ]
+  },
+  "track1": {
+    "name": "Track 1",
+    "venue": "Parition 1",
+    "programs": [
+      {
+        "time": "11:35 AM",
+        "topic": "GetCoin",
+        "description": "[TBD]",
+        "Speaker": "Meti Germa",
+        "company": "",
+        "type": "",
+        "photos": [
+          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
+        ],
+        "Requirements": "Meetup reservation is required",
+        "icon": "mdi-pencil",
+        "isBreak": false
+      },
+      {
+        "time": "12:30 PM",
+        "topic": "Unity Game Dev",
+        "description": "[TBD]",
+        "speaker": "Biruk",
+        "company": "",
+        "type": "",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-speaker",
+        "isBreak": false
+      },
+      {
+        "time": "2:00 PM",
+        "topic": "Building Trustable AI : Interpreting AI Decision",
+        "description": "[TBD]",
+        "speaker": "Rophit",
+        "company": "",
+        "type": "",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-speaker",
+        "isBreak": false
+      },
+      {
+        "time": "3:00 PM",
+        "topic": "[TBD]",
+        "description": "[TBD]",
+        "speaker": "Dawit (Kukulu)",
+        "company": "",
+        "type": "",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-speaker",
+        "isBreak": false
+      },
+      {
+        "time": "4:00 PM",
+        "topic": "Firebase + Vue Js",
+        "description": "[TBD]",
+        "speaker": "Melake",
+        "company": "",
+        "type": "",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-speaker",
+        "isBreak": false
+      }
+    ]
+  },
+  "track2": {
+    "name": "Track 2",
+    "venue": "Parition 2",
+    "programs": [
+      {
+        "time": "11:35 AM",
+        "topic": "Why People Belive They Can't do it",
+        "description": "[TBD]",
+        "Speaker": "Robel",
+        "company": "",
+        "type": "",
+        "photos": [
+          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
+        ],
+        "Requirements": "Meetup reservation is required",
+        "icon": "mdi-pencil",
+        "isBreak": false
+      },
+      {
+        "time": "12:30 PM",
+        "topic": "IoT enthusiast's session",
+        "description": "[TBD]",
+        "speaker": "Jemal Ahmed",
+        "company": "",
+        "type": "",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-speaker",
+        "isBreak": false
+      },
+      {
+        "time": "3:00 PM",
+        "topic": "AI in Education for the blind",
+        "description": "[TBD]",
+        "speaker": "Biniyam",
+        "company": "",
+        "type": "",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-speaker",
+        "isBreak": false
+      },
+      {
+        "time": "4:00 PM",
+        "topic": "Flutter",
+        "description": "[TBD]",
+        "speaker": "Habib & Redit",
+        "company": "",
+        "type": "",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-speaker",
+        "isBreak": false
+      },
+      {
+        "time": "5:00 PM",
+        "topic": "Kotlin",
+        "description": "[TBD]",
+        "speaker": "[TBD]",
+        "company": "",
+        "type": "",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-speaker",
+        "isBreak": false
+      }
+    ]
+  },
+  "track3": {
+    "name": "Track 3",
+    "venue": "Parition 3",
+    "programs": [
+      {
+        "time": "11:35 AM",
+        "topic": "AR Core",
+        "description": "[TBD]",
+        "Speaker": "Daniel",
+        "company": "",
+        "type": "",
+        "photos": [
+          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
+        ],
+        "Requirements": "Meetup reservation is required",
+        "icon": "mdi-pencil",
+        "isBreak": false
+      },
+      {
+        "time": "2:00 PM",
+        "topic": "IOS + Swift Development",
+        "description": "[TBD]",
+        "Speaker": "Yohana",
+        "company": "",
+        "type": "",
+        "photos": [
+          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
+        ],
+        "Requirements": "Meetup reservation is required",
+        "icon": "mdi-pencil",
+        "isBreak": false
+      },
+      {
+        "time": "3:00 PM",
+        "topic": "TME Education Ethiopia",
+        "description": "[TBD]",
+        "Speaker": "Tesfamichael",
+        "company": "TME Education Ethiopia",
+        "type": "",
+        "photos": [
+          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
+        ],
+        "Requirements": "Meetup reservation is required",
+        "icon": "mdi-pencil",
+        "isBreak": false
+      }
+    ]
+  }
 }
