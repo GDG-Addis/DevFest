@@ -10,7 +10,7 @@
                   <!-- <strong class="display-4 font-weight-regular mr-4">26</strong> -->
                   <v-layout column justify-end>
                     <strong
-                      class="text-uppercase google-font title font-weight-thin"
+                      class="text-uppercase google-font title font-weight-bold"
                     >{{agenda.name}}</strong>
                     <div class="font-weight-light">{{agenda.venue}}</div>
                   </v-layout>
