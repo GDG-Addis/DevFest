@@ -67,9 +67,7 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "Daniel",
@@ -81,10 +79,9 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
-  },{
+    "bio": [""]
+  },
+  {
     "name": "Dawit Abraham",
     "job": "",
     "photo": "devfest/speakers/dawit.jpg",
@@ -94,9 +91,7 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "Ismael",
@@ -108,9 +103,7 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "Muluadam Temesgen",
@@ -122,23 +115,19 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "Meti Mulugeta",
     "job": "",
     "photo": "devfest/speakers/Meti Mulugeta.png",
     "company": "",
-    "email": "",  
+    "email": "",
     "twitter": "",
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "Kaleab Zelalem",
@@ -150,9 +139,7 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "Melake Whubshet",
@@ -164,9 +151,7 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "",
@@ -178,9 +163,7 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "Habib Mohammed",
@@ -192,9 +175,7 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "Redit",
@@ -206,9 +187,7 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "Nabil Mohammed",
@@ -220,9 +199,7 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "Gemmechw Mohammed",
@@ -234,9 +211,7 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   },
   {
     "name": "Bethel Roger",
@@ -248,9 +223,6 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [
-      ""
-    ]
+    "bio": [""]
   }
 ]
-  
