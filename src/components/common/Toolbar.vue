@@ -1,7 +1,7 @@
 <template>
   <v-toolbar app color="white" height="55px" scroll-off-screen>
     <v-toolbar-side-icon class="hidden-md-and-up" @click="toggleDrawer" />
-
+    
     <v-toolbar-title class="ml-0 pl-1 mr-1">
       <a href="#" style="text-decoration:none;cursor:pointer;">
         <span class="google-font" style="color:#3f3f3f">{{ChapterDetails.ChapterName}}</span>
