@@ -1,44 +1,17 @@
 <template>
-  <v-container class="pa-4 my-0 ">
-    <a
-      href="http://tiny.cc/DevFestVenue"
-      style="text-decoration:none;cursor:pointer;"
-      target="_blank"
-    >
-      <v-layout
-        wrap
-        align-center
-        justify-center
-        row
-        fill-height
-        class="mt-2"
-        style="height:100%;width:100%;background-color:#212121;border-radius:10px;cursor: pointer;"
-      >
-        <v-flex xs12 sm4 md2 lg2 class="pa-4"></v-flex>
-        <v-flex xs12 sm8 md10 lg10 class="pa-2 py-4 px-3">
-          <span class="google-font mt-1 display-1" style="font-size:240%;color:white;">
-            Venue Navigation Is Being Prepared
-            <v-icon style="font-size:120%;color:white;">mdi-ruler-square-compass</v-icon>
-          </span>
-          <p class="google-font mt-1 font-weight-thin" style="color:white;">
-            Till then, take a tour in the website, and DON'T forget to
-            <a
-              href="https://www.meetup.com/GDG-Addis/events/262076561/"
-              style="text-decoration:underline;color:white;"
-              target="_blank"
-            >book your ticket for #DevFest19</a>
-          </p>
-        </v-flex>
-      </v-layout>
-    </a>
+  <v-container class="pa-4 my-0">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3940.365061312919!2d38.74895125018511!3d9.030423893488054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x0%3A0xc367647315386be6!2sEliana%20Hotel!3m2!1d9.030423899999999!2d38.7511453!4m5!1s0x164b85f135951c63%3A0x6691dec4208989ec!2sSengatera%2C%20Addis%20Ababa!3m2!1d9.0307057!2d38.7511465!5e0!3m2!1sen!2set!4v1573654617489!5m2!1sen!2set" width="800" height="550" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
   </v-container>
 </template>
 
 <script>
 import ChapterDetails from "@/assets/data/chapterDetails.json";
 export default {
+
+  
   data() {
     return {
+
       ChapterDetails: ChapterDetails
     };
   },

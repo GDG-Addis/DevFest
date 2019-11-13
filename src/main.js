@@ -11,6 +11,7 @@ import 'material-design-icons-iconfont/dist/material-design-icons.css'
 import './style.css'
 import './filters/truncate'
 
+
 //Video Controller
 import VueYoutube from 'vue-youtube'
 Vue.use(VueYoutube)
