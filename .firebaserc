@@ -9,6 +9,13 @@
           "devfestaddisababa"
         ]
       }
+    },
+    "gdg-addis-platform": {
+      "hosting": {
+        "devfest": [
+          "devfestaddisababa"
+        ]
+      }
     }
   }
 }
