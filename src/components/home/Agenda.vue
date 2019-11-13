@@ -1,7 +1,6 @@
 <template>
   <v-container class="pa-0 my-0">
     <v-layout wrap align-start justify-start row fill-height class="my-0">
-
       <v-flex xs12 class="pa-2 my-0">
         <div>
           <v-toolbar tabs color="grey lighten-5" light flat>
@@ -60,11 +59,8 @@ export default {
   data() {
     return {
       tabsValue: 0,
-      agendaData: topicData,
-      
+      agendaData: topicData
     };
-  },
-   
+  }
 };
 </script>
-
