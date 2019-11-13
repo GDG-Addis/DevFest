@@ -11,7 +11,6 @@
         "company": "GDG Addis",
         "type": "",
         "photos": [
-          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
         ],
         "Requirements": "Meetup reservation is required",
         "icon": "mdi-pencil",
@@ -21,12 +20,12 @@
         "time": "9:30 AM",
         "topic": "[TBD]",
         "description": "[TBD]",
-        "speaker": "Awal Mohammed",
+        "speaker": "Anwal",
         "company": "Google",
         "type": "Keynote",
         "photos": [],
         "tequirements": "Attention is required",
-        "icon": "mdi-speaker",
+        "icon": "mdi-microphone",
         "isBreak": false
       },
       {
@@ -36,22 +35,34 @@
         "speaker": "Rohit",
         "company": "Google",
         "type": "Keynote",
-        "photos": [],
+        "photos": ["devfest/speakers/rohit_ghosh.jpg"],
         "tequirements": "Attention is required",
-        "icon": "mdi-speaker",
+        "icon": "mdi-microphone",
         "isBreak": false
       },
       {
         "time": "10:35 AM",
-        "topic": "[TBD]",
+        "topic": "Goፈሬ",
         "description": "[TBD]",
-        "speaker": "Kaleab",
+        "speaker": "Kaleab Zelealem",
         "company": "[TBD]",
         "type": "Keynote",
+        "photos": ["devfest/speakers/kaleab_zelealem.jpg"],
+        "tequirements": "Attention is required",
+        "icon": "mdi-microphone",
+        "isBreak": false
+      },
+      {
+        "time": "11:05 AM",
+        "topic": "Coffee Break",
+        "description": "Group Photo, VR Experience, Networking, Fun Activites",
+        "speaker": "",
+        "company": "",
+        "type": "Coffee Break",
         "photos": [],
         "tequirements": "Attention is required",
-        "icon": "mdi-speaker",
-        "isBreak": false
+        "icon": "mdi-coffee",
+        "isBreak": true
       }
     ]
   },
@@ -63,27 +74,38 @@
         "time": "11:35 AM",
         "topic": "GetCoin",
         "description": "How to use GetCoin's APIs and integrate them with your system",
-        "Speaker": "Meti Germa",
+        "speaker": "Meti Germa",
         "company": "",
-        "type": "",
+        "type": "Lighting Talk",
         "photos": [
-          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
         ],
         "Requirements": "Meetup reservation is required",
-        "icon": "mdi-pencil",
+        "icon": "mdi-voice",
         "isBreak": false
       },
       {
         "time": "12:15 PM",
         "topic": "AI In Education For The Blind",
         "description": "Using AI To Help Disabled People",
-        "speaker": "Biniyam",
+        "speaker": "Biniyam Yayehyirad",
+        "company": "",
+        "type": "Lighting Talk",
+        "photos": [],
+        "tequirements": "Attention is required",
+        "icon": "mdi-voice",
+        "isBreak": false
+      },
+      {
+        "time": "12:45 PM",
+        "topic": "Lunch Break",
+        "description": "Lunch, Group Photo, VR Experience, Networking, Fun Activites",
+        "speaker": "",
         "company": "",
         "type": "",
         "photos": [],
-        "tequirements": "Attention is required",
-        "icon": "mdi-speaker",
-        "isBreak": false
+        "tequirements": "",
+        "icon": "mdi-food",
+        "isBreak": true
       },
       {
         "time": "2:00 PM",
@@ -91,10 +113,10 @@
         "description": "Making Better Vital Decisions When Desiging in AI",
         "speaker": "Rophit",
         "company": "",
-        "type": "",
+        "type": "Workshop",
         "photos": [],
         "tequirements": "Attention is required",
-        "icon": "mdi-speaker",
+        "icon": "mdi-laptop",
         "isBreak": false
       },
       {
@@ -103,10 +125,10 @@
         "description": "Let's Use TenserFlow and Build A Quick App",
         "speaker": "Gemmechw & Bethel",
         "company": "",
-        "type": "",
+        "type": "Codelab",
         "photos": [],
         "tequirements": "Attention is required",
-        "icon": "mdi-speaker",
+        "icon": "mdi-xml",
         "isBreak": false
       },
       {
@@ -115,10 +137,10 @@
         "description": "Integrating Firebase with VueJs ",
         "speaker": "Melake",
         "company": "",
-        "type": "",
+        "type": "Workshop",
         "photos": [],
         "tequirements": "Attention is required",
-        "icon": "mdi-speaker",
+        "icon": "mdi-laptop",
         "isBreak": false
       }
     ]
@@ -131,14 +153,13 @@
         "time": "11:35 AM",
         "topic": "Why People Belive They Can't do it",
         "description": "How to Exploit Your Inner Energy and Turn It Into An Asset",
-        "Speaker": "Robel",
-        "company": "",
-        "type": "",
+        "Speaker": "Robel Mulugeta",
+        "company": "American Center",
+        "type": "workshop",
         "photos": [
-          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
         ],
         "Requirements": "Meetup reservation is required",
-        "icon": "mdi-pencil",
+        "icon": "mdi-laptop",
         "isBreak": false
       },
       {
@@ -147,22 +168,34 @@
         "description": "How Developers Can Develop For A Successful Business Model ",
         "speaker": "Muluadam Temesgen",
         "company": "",
-        "type": "",
+        "type": "Workshop",
         "photos": [],
         "tequirements": "Attention is required",
-        "icon": "mdi-speaker",
+        "icon": "mdi-laptop",
         "isBreak": false
       },
       {
-        "time": "2:00 PM",
-        "topic": "Android",
-        "description": "Building Apps With Android",
-        "speaker": "Daiwt Abraham",
+        "time": "12:45 PM",
+        "topic": "Lunch Break",
+        "description": "Lunch, Group Photo, VR Experience, Networking, Fun Activites",
+        "speaker": "",
         "company": "",
         "type": "",
         "photos": [],
+        "tequirements": "",
+        "icon": "mdi-food",
+        "isBreak": true
+      },
+      {
+        "time": "2:00 PM",
+        "topic": "Game Development",
+        "description": "Building Game Development",
+        "speaker": "Daiwt Abraham",
+        "company": "",
+        "type": "workshop",
+        "photos": [],
         "tequirements": "Attention is required",
-        "icon": "mdi-speaker",
+        "icon": "mdi-laptop",
         "isBreak": false
       },
       {
@@ -171,10 +204,10 @@
         "description": "Integrating Your Website Using DialogFlow With Google Assistant",
         "speaker": "Nabil Mohammed",
         "company": "GDGAddis",
-        "type": "",
+        "type": "Codelab",
         "photos": [],
         "tequirements": "Attention is required",
-        "icon": "mdi-speaker",
+        "icon": "mdi-xml",
         "isBreak": false
       },
       {
@@ -183,10 +216,10 @@
         "description": "Building Cross Platformed Apps",
         "speaker": "Habib & Redit",
         "company": "",
-        "type": "",
+        "type": "Codelab",
         "photos": [],
         "tequirements": "Attention is required",
-        "icon": "mdi-speaker",
+        "icon": "mdi-xml",
         "isBreak": false
       }
     ]
@@ -199,56 +232,64 @@
         "time": "11:35 AM",
         "topic": "AR Core",
         "description": "How To Build ARCore Apps",
-        "Speaker": "Daniel",
+        "speaker": "Daniel Getachew",
         "company": "",
-        "type": "",
+        "type": "workshop",
         "photos": [
-          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
         ],
         "Requirements": "Meetup reservation is required",
-        "icon": "mdi-pencil",
+        "icon": "mdi-laptop",
         "isBreak": false
+      },
+      {
+        "time": "12:45 PM",
+        "topic": "Lunch Break",
+        "description": "Lunch, Group Photo, VR Experience, Networking, Fun Activites",
+        "speaker": "",
+        "company": "",
+        "type": "",
+        "photos": [],
+        "tequirements": "",
+        "icon": "mdi-food",
+        "isBreak": true
       },
       {
         "time": "2:00 PM",
         "topic": "IOS + Swift Development",
         "description": "Building Targeted Mobile Applications Using Swift for IOS ",
-        "Speaker": "Yohana",
+        "speaker": "Yohana",
         "company": "",
-        "type": "",
+        "type": "Workshop",
         "photos": [
-          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
         ],
         "Requirements": "Meetup reservation is required",
-        "icon": "mdi-pencil",
+        "icon": "mdi-laptop",
         "isBreak": false
       },
       {
         "time": "3:00 PM",
         "topic": "TME Education Ethiopia",
-        "description": "Programming With Arduino",
-        "Speaker": "Tesfamichael",
+        "description": "Programming With TME Arduino Board, Integration with Firebase",
+        "speaker": "Tesfamichael",
         "company": "TME Education Ethiopia",
-        "type": "",
+        "type": "Workshop",
         "photos": [
-          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
         ],
         "Requirements": "Meetup reservation is required",
-        "icon": "mdi-pencil",
+        "icon": "mdi-laptop",
         "isBreak": false
       },
       {
         "time": "4:15 PM",
         "topic": "Development with Node Express & Mongo DB",
         "description": "Build A Full Backend Application",
-        "Speaker": "Daniel & Freayhew",
+        "speaker": "Fireayehu",
         "company": "GDGAddis",
-        "type": "",
+        "type": "Codelab",
         "photos": [
-          "https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Fimages%2Fspeakers%2Fmelake.jpg?alt=media&token=561cae56-4fbe-43f3-9d47-8140f17d24d2"
         ],
         "Requirements": "Meetup reservation is required",
-        "icon": "mdi-pencil",
+        "icon": "mdi-xml",
         "isBreak": false
       }
     ]

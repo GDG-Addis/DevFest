@@ -16,6 +16,30 @@
     ]
   },
   {
+    "name": "Dawit Abraham",
+    "job": "Game Developer & CEO/Co-Founder of Quene Technologies",
+    "photo": "devfest/speakers/dawit.jpg",
+    "company": "Quene Technologies",
+    "email": "",
+    "twitter": "",
+    "linkdin": "",
+    "blog": "",
+    "website": "https://qenetech.com",
+    "bio": [ ]
+  },
+  {
+    "name": "Daniel Getachew",
+    "job": "Full-Stack Developer",
+    "photo": "devfest/speakers/daniel.jpg",
+    "company": "",
+    "email": "",
+    "twitter": "",
+    "linkdin": "",
+    "blog": "",
+    "website": "",
+    "bio": [ ]
+  },
+  {
     "name": "Robel Mulugeta",
     "job": "American Center ,Administrator support",
     "photo": "devfest/speakers/robel_mulugeta.jpg",
@@ -29,20 +53,7 @@
       "a computer engineering student at Hawass university, I won 2 times national level computation and 4 times the regional level in the science and technology field. had experience in hardware programming and design , had degree in management and skill in networking."
     ]
   },
-  {
-    "name": "Biniam Yayehyirad",
-    "job": "Country Manager @ Camara Education",
-    "photo": "devfest/speakers/biniam_yayehyirad.jpg",
-    "company": "Camara Education",
-    "email": "ybiniam@hotmail.com",
-    "twitter": "https://twitter.com/camaraeducation",
-    "linkdin": "https://www.linkedin.com/in/yayehyiradbiniam/",
-    "blog": "",
-    "website": "https://camara.org/",
-    "bio": [
-      "Biniam Yayehyirad is the Country Manager of Camara Education Ethiopia, an international NGO dedicated to delivering real impact through technology. As a tech enthusiast, he believes that education is the key to alleviating poverty, and that technology has the ability to radically improve it. As such, using the social enterprise model, Biniam has been working to support schools in Ethiopia with ICT integration in Education, and aspires to see every student in Ethiopia uplifted thanks to technology."
-    ]
-  },
+  
   {
     "name": "Tesfamichael Molla",
     "job": "TME Education ambassador in Ethiopia",
@@ -96,7 +107,7 @@
   {
     "name": "Kaleab Zelalem",
     "job": "Software Engineer at MiltoLabs Ethiopia",
-    "photo": "devfest/speakers/Kaleab_Zelealem.jpg",
+    "photo": "devfest/speakers/kaleab_zelealem.jpg",
     "company": "MiltoLabs",
     "email": "kzelelalem@gmail.com",
     "twitter": "",
@@ -106,7 +117,7 @@
     "bio": ["Kaleab is a passionate software engineer born and raised at the heart of the city of peace, Harar. His desire to explore how the tech world functions led him to study computer science."]
   },
   {
-    "name": "Melake Whubshet",
+    "name": "Melake Wubshet",
     "job": "Lead Organizor of GDGAddis -CEO and CoFounder of iBrave Software PLC",
     "photo": "devfest/speakers/melake.jpg",
     "company": "iBrave",
@@ -116,6 +127,18 @@
     "blog": "",
     "website": "",
     "bio": [""]
+  },
+  {
+    "name": "Bethel Roger",
+    "job": "Programmer",
+    "photo": "devfest/speakers/bethel.jpg",
+    "company": "GDG Addis",
+    "email": "",
+    "twitter": "",
+    "linkdin": "",
+    "blog": "",
+    "website": "",
+    "bio": []
   },
   {
     "name": "Nabil Mohammed",
@@ -128,5 +151,54 @@
     "blog": "",
     "website": "",
     "bio": ["A passionate computer science student who likes to solve problems and look for ways to do that using technology."]
+  },
+  {
+    "name": "Rediet Demisse",
+    "job": "Programmer",
+    "photo": "devfest/speakers/rediet.jpg",
+    "company": "GDG Addis",
+    "email": "",
+    "twitter": "",
+    "linkdin": "",
+    "blog": "",
+    "website": "",
+    "bio": []
+  },
+  {
+    "name": "Habib Mohammed",
+    "job": "Flutter Developer",
+    "photo": "devfest/speakers/habib_mohammed.jpg",
+    "company": "GDG Addis",
+    "email": "",
+    "twitter": "",
+    "linkdin": "",
+    "blog": "",
+    "website": "",
+    "bio": []
+  },
+  {
+    "name": "Fireayehu Zekarias",
+    "job": "DSC Lead",
+    "photo": "devfest/speakers/fre.jpg",
+    "company": "GDG Addis",
+    "email": "",
+    "twitter": "",
+    "linkdin": "",
+    "blog": "",
+    "website": "",
+    "bio": []
+  },
+  {
+    "name": "Gemmechu Mohammed",
+    "job": "Programmer",
+    "photo": "devfest/speakers/gemmechu.jpg",
+    "company": "GDG Addis",
+    "email": "",
+    "twitter": "",
+    "linkdin": "",
+    "blog": "",
+    "website": "",
+    "bio": []
   }
+  
 ]

@@ -1,13 +1,13 @@
 <template>
   <v-container class="pa-0 my-0">
     <v-layout wrap align-start justify-start row fill-height class="my-0">
+
       <v-flex xs12 class="pa-2 my-0">
         <div>
-          <v-toolbar tabs color="grey lighten-5"  light flat>
+          <v-toolbar tabs color="grey lighten-5" light flat>
             <toolbar-title>
               <v-layout column>
                 <span class="title">Agenda</span>
-              
               </v-layout>
             </toolbar-title>
             <v-spacer></v-spacer>
@@ -18,30 +18,30 @@
               <v-icon>mdi-help</v-icon>
             </v-btn>
           </v-toolbar>
-          <AgendaCard :agenda="agendaData.common"/>
+          <AgendaCard :agenda="agendaData.common" />
           <v-tabs
-              centered
-              v-model="tabsValue"
-              slider-color="blue"
-              color="grey lighten-5"
-              flat
-              light
-            >
-              <v-tab>Track 1</v-tab>
-              
-              <v-tab>Track 2</v-tab>
+            centered
+            v-model="tabsValue"
+            slider-color="blue"
+            color="grey lighten-5"
+            flat
+            light
+          >
+            <v-tab>Track 1</v-tab>
 
-              <v-tab>Track 3</v-tab>
-            </v-tabs>
+            <v-tab>Track 2</v-tab>
+
+            <v-tab>Track 3</v-tab>
+          </v-tabs>
           <v-tabs-items v-model="tabsValue">
             <v-tab-item>
-              <AgendaCard :agenda="agendaData.track1"/>
+              <AgendaCard :agenda="agendaData.track1" />
             </v-tab-item>
             <v-tab-item>
-              <AgendaCard :agenda="agendaData.track2"/>
+              <AgendaCard :agenda="agendaData.track2" />
             </v-tab-item>
             <v-tab-item>
-              <AgendaCard :agenda="agendaData.track3"/>
+              <AgendaCard :agenda="agendaData.track3" />
             </v-tab-item>
           </v-tabs-items>
         </div>
@@ -60,9 +60,11 @@ export default {
   data() {
     return {
       tabsValue: 0,
-      agendaData: topicData
+      agendaData: topicData,
+      
     };
-  }
+  },
+   
 };
 </script>
 

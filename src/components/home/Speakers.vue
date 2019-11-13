@@ -21,6 +21,7 @@
             <v-layout column>
               <span class="mx-2">{{currentSpeaker.name}}</span>
               <span class="mx-2 caption">{{currentSpeaker.job}}</span>
+              <span class="mx-2 caption">{{currentSpeaker.company}}</span>
             </v-layout>
             <v-spacer></v-spacer>
             <v-btn flat icon @click="closeDialog">
@@ -43,8 +44,6 @@
               <span class="title black--text">{{s.name}}</span>
               <br />
               <span class="caption">{{s.job}}</span>
-              <br />
-              <span class="caption">{{s.company}}</span>
             </div>
           </v-card-title>
           <v-card-actions>

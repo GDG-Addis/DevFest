@@ -89,7 +89,7 @@
       </v-layout>
     </v-container>
 
-    <v-parallax dark :src="require('@/assets/img/devfest/banner2.jpeg')">
+    <v-parallax dark :src="require('@/assets/img/devfest/banner2.jpg')">
       <v-layout align-center column justify-center>
         <h1 class="display-2 font-weight-thin mb-1" style="color:white;">{{HomeData.devFestTitle}}</h1>
         <span style="color:white;font-size:20px;">{{HomeData.devFestDesc}}</span>
