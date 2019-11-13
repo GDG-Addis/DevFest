@@ -10,18 +10,11 @@ import 'roboto-fontface/css/roboto/roboto-fontface.css'
 import 'material-design-icons-iconfont/dist/material-design-icons.css'
 import './style.css'
 import './filters/truncate'
-import * as VueGoogleMaps from 'vue2-google-maps'
+
 
 //Video Controller
 import VueYoutube from 'vue-youtube'
 Vue.use(VueYoutube)
-
-      Vue.use(VueGoogleMaps, {
-        load: {
-          key: 'YOUR_API_TOKEN',
-          libraries: 'places',
-        },
-      })
 
 Vue.use(VueAxios, axios)
 Vue.config.productionTip = false
