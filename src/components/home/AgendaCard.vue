@@ -26,14 +26,17 @@
                   >By: {{ currentSession.speaker }}</span
                 >
                 <v-icon v-else x-large>{{ currentSession.icon }}</v-icon>
-                <template v-for="(img, j) in currentSession.photos">
-                  <v-avatar class="mt-2" :key="j">
+                <v-layout row wrap >
+                  <template v-for="(img, j) in currentSession.photos">
+                  <v-avatar class="mt-2 mx-2" :key="j">
                     <v-img
                       :src="require(`@/assets/img/${img}`)"
                       contain
                     ></v-img>
                   </v-avatar>
                 </template>
+                </v-layout>
+                
               </v-layout>
               <v-spacer></v-spacer>
               <v-btn flat icon @click="closeDialog">
@@ -41,7 +44,7 @@
               </v-btn>
             </v-card-title>
             <v-card-text>
-              <p class="my-2">{{ currentSession.description }}</p>
+              <p class="my-2" v-for="(par,i) in currentSession.description" :key="i">{{par}}</p>
             </v-card-text>
           </v-card>
         </template>

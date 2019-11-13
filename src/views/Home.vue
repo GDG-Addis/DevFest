@@ -81,7 +81,7 @@
     </v-container>
 
     <!-- Agenda -->
-    <v-container fluid class="back" id="agenda">
+    <v-container fluid class="agenda-back" id="agenda">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class>
           <Agenda />
@@ -113,9 +113,9 @@
     </v-container>
 
     <!-- Venue -->
-    <v-container fluid id="venue">
-      <v-layout wrap align-center justify-center row fill-height>
-        <v-flex xs12 md10>
+    <v-container fluid id="venue" class="venue-back">
+      <v-layout wrap align-center justify-end row fill-height>
+        <v-flex xs12>
           <Venue />
         </v-flex>
       </v-layout>
@@ -209,9 +209,12 @@ export default {
 </script>
 
 <style scoped>
-.back {
+.agenda-back {
   background-image: url(http://tiny.cc/bgImageDevFest);
-
+  background-size: cover;
+}
+.venue-back {
+  background-image: url(https://firebasestorage.googleapis.com/v0/b/gdg-addis-platform.appspot.com/o/devfest19%2Feliana_banner.jpg?alt=media&token=e9802b8f-b469-40cb-9af2-c046372a6c5b);
   background-size: cover;
 }
 #inspire {

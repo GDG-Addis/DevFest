@@ -1,5 +1,19 @@
 [
   {
+    "name": "Anuwal MS",
+    "job": "Program Manager, Developer Student Clubs - Sub Saharan Africa",
+    "photo": "devfest/speakers/anwal.jpg",
+    "company": "Google",
+    "email": "auwalforall@gmail.com",
+    "twitter": "https://twitter.com/auwalms",
+    "linkdin": "https://www.linkedin.com/in/auwalms/",
+    "blog": "https://medium.com/@Auwalms",
+    "website": "https://www.linkedin.com/in/auwalms",
+    "bio": [
+      "Auwal MS is software engineer with broad experience in software development covering multiple plar. He currently works as a Program Manager in Google Developer Relations team overseeing the activities of Developer Student Clubs in Sub-Saharan Africa"
+     ]
+  },
+  {
     "name": "Rohit Ghosh",
     "job": "Founding Member of Qure.ai; GDE for ML",
     "photo": "devfest/speakers/rohit_ghosh.jpg",
@@ -20,24 +34,43 @@
     "job": "Game Developer & CEO/Co-Founder of Quene Technologies",
     "photo": "devfest/speakers/dawit.jpg",
     "company": "Quene Technologies",
-    "email": "",
-    "twitter": "",
-    "linkdin": "",
-    "blog": "",
+    "email": "dawit@qenetech.com",
+    "twitter": "http://twitter.com/dawitabrahammb",
+    "linkdin": "https://www.linkedin.com/in/dawit-abraham-3a135845/",
+    "blog": "https://medium.com/@dawitabraham",
     "website": "https://qenetech.com",
-    "bio": [ ]
+    "bio": [
+      "Dawit Abraham is an award-winning Game Developer and Android Application Engineer with a sound background in the fields of Native Android Application Development, Game Development using platforms such as Unity 3D Game Engine, and Artificial Intelligence paradigms such as Machine Learning and Natural Language Processing.",
+      "Dawit works comfortably with Java, C++, C# and Python frameworks. He is skilled in Object Oriented programming and MVC and MVP clean architecture designs. He also has experience working in Scheme.",
+      "Dawit is the lead Game Developer on the Kukulu project, a 3D infinite runner game for Android platforms and built using Unity 3D Game Engine. Kukulu is the first 3D mobile game to be released in Ethiopia at its scale. Kukulu game won the 2018 Apps Africa Innovation Award for Best News & Entertainment Solution. Dawit has collaborated on international projects such as the OpenCog Artificial General Intelligence framework (www.opencog.org). He has also undertaken AI based Android Game Application projects from design to development during his years at iCog-Labs, an Artificial Intelligence Research Lab. Dawit has a practical experience in agile software development (Scrum, Kanban) and utilizes project collaboration and version control systems (Git) extensively. Dawit has an enthusiastic interest working on Artificial Intelligence systems. He believes it's vital for Africa to get in the race and maintain a stand as soon as possible.",
+      "When Dawit is not engineering, he spends his time playing his Begena and Guitar, learning foreign languages, practicing Taekwondo (he has a first-degree black belt), playing chess and reading history books."
+    ]
   },
   {
     "name": "Daniel Getachew",
     "job": "Full-Stack Developer",
     "photo": "devfest/speakers/daniel.jpg",
-    "company": "",
+    "company": "Guzo Technologies",
     "email": "",
     "twitter": "",
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [ ]
+    "bio": []
+  },
+  {
+    "name": "Biniam Yayehyirad",
+    "job": "Country Manager at Camara Education",
+    "photo": "devfest/speakers/biniam_yayehyirad.jpg",
+    "company": "Camara Education",
+    "email": "ybiniam@hotmail.com",
+    "twitter": "https://twitter.com/camaraeducation",
+    "linkdin": "https://www.linkedin.com/in/yayehyiradbiniam/",
+    "blog": "",
+    "website": "http://www.camara.org/",
+    "bio": [
+      "Biniam Yayehyirad is the Country Manager of Camara Education Ethiopia, an international NGO dedicated to delivering real impact through technology. As a tech enthusiast, he believes that education is the key to alleviating poverty, and that technology has the ability to radically improve it. As such, using the social enterprise model, Biniam has been working to support schools in Ethiopia with ICT integration in Education, and aspires to see every student in Ethiopia uplifted thanks to technology."
+    ]
   },
   {
     "name": "Robel Mulugeta",
@@ -53,12 +86,11 @@
       "a computer engineering student at Hawass university, I won 2 times national level computation and 4 times the regional level in the science and technology field. had experience in hardware programming and design , had degree in management and skill in networking."
     ]
   },
-  
   {
     "name": "Tesfamichael Molla",
     "job": "TME Education ambassador in Ethiopia",
     "photo": "devfest/speakers/tesfamichael_molla.jpg",
-    "company": "Camara Education",
+    "company": "TME Education",
     "email": "hope.miky1074@gmail.com",
     "twitter": "https://twitter.com/hopemichael1074",
     "linkdin": "https://www.linkedin.com/in/tesfamichael-molla-989236171/",
@@ -69,7 +101,7 @@
     ]
   },
   {
-    "name": "Yohana",
+    "name": "Yohana Ermias",
     "job": "IOS Developer, UI/UX Designer & Founder at COITech",
     "photo": "devfest/speakers/yohana.jpg",
     "company": "COITech",
@@ -78,7 +110,9 @@
     "linkdin": "https://www.linkedin.com/in/yohana-ermias-244522116",
     "blog": "https://www.instagram.com/techohanadiary",
     "website": "",
-    "bio": ["Yohana is a 24 year old Techprenuer, self-taught developer, and UI/UX designer. Her self led & unconventional journey into computer science is an inspring story that sheds light on how technology is changing the dynamics of education and how crucial it is to leverage it."]
+    "bio": [
+      "Yohana is a 24 year old Techprenuer, self-taught developer, and UI/UX designer. Her self led & unconventional journey into computer science is an inspring story that sheds light on how technology is changing the dynamics of education and how crucial it is to leverage it."
+    ]
   },
   {
     "name": "Muluadam Temesgen",
@@ -87,22 +121,27 @@
     "company": "Instant Systems",
     "email": "bsgeth@gmail.com",
     "twitter": "",
-    "linkdin": "",
+    "linkdin": "https://www.linkedin.com/in/muluadam-temesgen-377073114/",
     "blog": "",
-    "website": "",
-    "bio": ["BSc in Software Engineering, MSc in Computer Science, Lecturer in Bahir Dar Technology Institute, Seven Years of Programming Experience"]
+    "website": "http://www.muluadam.com/",
+    "bio": [
+      "BSc in Software Engineering, MSc in Computer Science, Lecturer in Bahir Dar Technology Institute, Seven years of programming experiacne on JAVA, JEEE, JPA, Android, SMS, IVR, Web Service with JAX-RS and Winner of 6th National Innovation Award from MoST."
+    ]
   },
+
   {
     "name": "Meti Mulugeta",
     "job": "GetCoin Ethiopia",
     "photo": "devfest/speakers/Meti Mulugeta.png",
     "company": "GetCoin",
     "email": "metigirmamulugeta@gmail.com",
-    "twitter": "",
-    "linkdin": "",
-    "blog": "",
-    "website": "",
-    "bio": ["I was in 4th grade when I started leading a group and it was always on me to manage and lead that group. When I got to the 8th grade, I started coding and helping at my uncle's place who had a computer science degree. When I got back to school, I started making web pages and started to do it for money"]
+    "twitter": "https://twitter.com/girma_meti?lang=en",
+    "linkdin": "https://www.linkedin.com/in/meti-mulugeta-005582168/",
+    "blog": "https://twitter.com/girma_meti?lang=en",
+    "website": "http://www.getcoineth.com/",
+    "bio": [
+      "I was in 4th grade when i started leading a group and it was always on me to manage and lead the group. When I got in grade 8th grade I started coding and helping at my uncle's place, he had computer science college. When i got back to school I started making web pages and started to do it for money. Then I started reading and looking up some videos so that I can boost my capability. I've been in many competitions since Grade 8 and have learned a lot through that.In real life I hustle to get money on my own, which helped me go trough a lot of stuff and be a great enturpnuer that I am today. It helped me pave my own way to do things conceive and deal with people in real life. In preparatory I took C++ after school and Java Core course by scholarship from Gebeya after we stood third in Technovation Ethiopia in 2018. Afterwards I carried on with GetCoin it has taken 3 years back from now and its still developing and now its has reached its 4th year. After Contracting the company we will be hosting it very soon."
+    ]
   },
   {
     "name": "Kaleab Zelalem",
@@ -110,15 +149,17 @@
     "photo": "devfest/speakers/kaleab_zelealem.jpg",
     "company": "MiltoLabs",
     "email": "kzelelalem@gmail.com",
-    "twitter": "",
-    "linkdin": "",
-    "blog": "",
-    "website": "",
-    "bio": ["Kaleab is a passionate software engineer born and raised at the heart of the city of peace, Harar. His desire to explore how the tech world functions led him to study computer science."]
+    "twitter": "https://twitter.com/kzelealem",
+    "linkdin": "https://www.linkedin.com/in/kaleab-zelealem-bab5a4145/",
+    "blog": "https://www.linkedin.com/in/kaleab-zelealem-bab5a4145/",
+    "website": "https://miltolabs.com/",
+    "bio": [
+      "Kaleab is a passionate software engineer born and raised at the heart of the city of peace, Harar. His desire to explore how the tech world functions led him to study computer science."
+    ]
   },
   {
     "name": "Melake Wubshet",
-    "job": "Lead Organizor of GDGAddis -CEO and CoFounder of iBrave Software PLC",
+    "job": "Lead Organizer at GDG Addis - CEO and CoFounder of iBrave Software PLC",
     "photo": "devfest/speakers/melake.jpg",
     "company": "iBrave",
     "email": "",
@@ -126,7 +167,10 @@
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": [""]
+    "bio": [
+      "Melake Wubshet has a BSc in Software Engineering from AAiT. He is the CEO/Cofounder of iBrave Software Engineering. He also is a lead community organizer at GDG Addis, a community of passionate tech-savvy people.",
+      "He was working at CNET Software Technologies as a senior developer for two and half years. He has a solid skill on Backend development using ASP.NET Core and Frontend Develpoment using Vue Js. He is very passionate on AI/Machine Learning, Computer Vision, Robotics and Electronics"
+    ]
   },
   {
     "name": "Bethel Roger",
@@ -142,15 +186,17 @@
   },
   {
     "name": "Nabil Mohammed",
-    "job": "PR&Marketing at GDGAddis & Digital Marketing Manager at Addis Software PLC",
+    "job": "Programmer & Digital Marketing Manager at Addis Software PLC",
     "photo": "devfest/speakers/Nabil.jpg",
     "company": "GDGAddis",
     "email": "nabil.alanssi19@gmail.com",
-    "twitter": "",
-    "linkdin": "",
-    "blog": "",
-    "website": "",
-    "bio": ["A passionate computer science student who likes to solve problems and look for ways to do that using technology."]
+    "twitter": "https://twitter.com/alanssinabil19",
+    "linkdin": "https://www.linkedin.com/in/nabiloo19",
+    "blog": "https://medium.com/@nabil.alanssi19",
+    "website": "https://www.gdgaddis.dev/team",
+    "bio": [
+      "A passionate computer science student who likes to solve problems and look for ways to do that using technology."
+    ]
   },
   {
     "name": "Rediet Demisse",
@@ -200,5 +246,4 @@
     "website": "",
     "bio": []
   }
-  
 ]
