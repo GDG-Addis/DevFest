@@ -20,7 +20,7 @@
         "time": "9:30 AM",
         "topic": "DevFest: More than just an Event",
         "description": ["Keynote will be around stories from DevFest from across the world"],
-        "speaker": "Anwal MS",
+        "speaker": "Auwal MS",
         "company": "Google",
         "type": "Keynote",
         "photos": ["devfest/speakers/anwal.jpg"],
@@ -305,7 +305,7 @@
       },
       {
         "time": "4:15 PM",
-        "topic": "Development with Node Express & Mongo DB",
+        "topic": "Scalable API's with Express and MongoDB",
         "description": ["Build A Full Backend Application"],
         "speaker": "Fireayehu",
         "company": "GDGAddis",
