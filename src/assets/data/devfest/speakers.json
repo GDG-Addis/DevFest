@@ -73,6 +73,20 @@
     ]
   },
   {
+    "name": "Anthony Kiplimo",
+    "job": "VP of Ecosystems Decoded Africa | Head of DevRel at Africa's Talking",
+    "photo": "devfest/speakers/anthony.jpg",
+    "company": "Africa's Talking",
+    "email": "anthony@decoded.africa",
+    "twitter": "https://twitter.com/AnthonyLimo",
+    "linkdin": "https://www.linkedin.com/in/anthony-kiplimo-0234384b?originalSubdomain=ke",
+    "blog": "https://anthonylimo.hashnode.dev/",
+    "website": "https://www.decoded.africa/",
+    "bio": [
+      "Anthony is passionate about helping developers achieve their utmost through technical and business mentorship. He leads Developer Relations efforts at Africa's Talking and is in charge of Developer Ecosystems at Decoded Africa. He writes Python JavaScript and has a love for Backend technologies as well as DevOps"
+    ]
+  },
+  {
     "name": "Robel Mulugeta",
     "job": "American Center ,Administrator support",
     "photo": "devfest/speakers/robel_mulugeta.jpg",

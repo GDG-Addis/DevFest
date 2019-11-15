@@ -75,16 +75,16 @@
     "programs": [
       {
         "time": "11:35 AM",
-        "topic": "GetCoin",
-        "description": ["GetCoin is a payment gateway.Its like paypal but without credit cards."],
-        "speaker": "Meti Germa",
-        "company": "GetCoin",
-        "type": "Lighting Talk",
+        "topic": "Building an Bulk SMS Dashboard with Angular, Africa's Talking, HapiJS and Firebase",
+        "description": ["This session will introduce developers to building SMS based solutions that allow businesses to reach out to customers using SMS. This demo will use Angular, Firebase, HapiJS and Africa's Talking APIs for SMS"],
+        "speaker": "Anthony Kiplimo",
+        "company": "Decoded Africa",
+        "type": "Workshop",
         "photos": [
-          "devfest/speakers/meti_girma.jpg"
+          "devfest/speakers/anthony.jpg"
         ],
         "Requirements": "Meetup reservation is required",
-        "icon": "mdi-voice",
+        "icon": "mdi-laptop",
         "isBreak": false
       },
       {
@@ -209,6 +209,20 @@
       },
       {
         "time": "3:00 PM",
+        "topic": "GetCoin",
+        "description": ["GetCoin is a payment gateway.Its like paypal but without credit cards."],
+        "speaker": "Meti Germa",
+        "company": "GetCoin",
+        "type": "Lighting Talk",
+        "photos": [
+          "devfest/speakers/meti_girma.jpg"
+        ],
+        "Requirements": "Meetup reservation is required",
+        "icon": "mdi-voice",
+        "isBreak": false
+      },
+      {
+        "time": "3:20 PM",
         "topic": "Actions On Google",
         "description":[ "Integrating Your Website Using DialogFlow With Google Assistant"],
         "speaker": "Nabil Mohammed",

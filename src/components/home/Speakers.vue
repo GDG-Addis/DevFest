@@ -38,8 +38,8 @@
     <v-layout wrap align-start justify-start row fill-height class="my-0">
       <v-flex v-for="(s, i) in speakers" :key="i" xs6 sm4 md3 lg3 xl3>
         <v-card>
-          <v-card-media :src="require(`@/assets/img/${s.photo}`)" height="250px" width="100%"></v-card-media>
-          <v-card-title>
+          <v-card-media @click="showBio(s)" :src="require(`@/assets/img/${s.photo}`)" height="250px" width="100%"></v-card-media>
+          <v-card-title @click="showBio(s)">
             <div>
               <span class="title black--text">{{s.name}}</span>
               <br />
@@ -64,6 +64,9 @@
               </v-btn>
               <v-btn small flat icon :href="`mailto:${s.email}`" target="_blank">
                 <v-icon style="color:#339946">mdi-email</v-icon>
+              </v-btn>
+              <v-btn small flat icon :href="s.blog" target="_blank">
+                <v-icon style="color:#936946">mdi-post</v-icon>
               </v-btn>
               <v-spacer></v-spacer>
               <v-btn @click="showBio(s)" small flat icon>
