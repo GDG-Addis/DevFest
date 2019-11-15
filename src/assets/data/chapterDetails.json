@@ -4,7 +4,7 @@
   "ChapterLongDec": "GDG Addis prides itself on being an inclusive environment. Everyone and anyone interested in tech - from beginner developers to experienced professionals - are welcome to join. We are а group of enthusiasts that gather around Google technologies. Founded back in 2016, we organize various events - seminars, conferences or just community dine outs, and discuss the latest Google developments and Technology Trends. With over 60 events since then and nearly 2,400 community members.. Join us and be part of the MAGIC ..!",
   "ChapterMeetupLink": "https://www.meetup.com/GDG-Addis",
   "ChapterEmail": "gdgaddis.et@gmail.com",
-  "website": "https://gdg-addis-platform.firebaseapp.com/devfest",
+  "website": "https://gdgaddis.dev",
   "GDGProgramWebsite": "https://developers.google.com/programs/community/",
   "ChapterHashTags": ["GDGAddis", "WTMAddis", "GDG", "WTM"],
   "socialLinks": [
@@ -44,6 +44,12 @@
       "link": "https://www.youtube.com/channel/UChfci5MHujiUvSLxsb1B-bQ",
       "icon": "mdi-youtube",
       "color": "#c4302b"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "http://linkedin.com/in/gdgaddis",
+      "icon": "mdi-linkedin",
+      "color": "#0e76a8"
     }
   ],
   "wtmWebsite": "https://www.womentechmakers.com/",
