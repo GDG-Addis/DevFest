@@ -224,7 +224,16 @@
       {
         "time": "3:20 PM",
         "topic": "Actions On Google",
-        "description":[ "Integrating Your Website Using DialogFlow With Google Assistant"],
+        "description":[
+           "Building Actions on Google using DialogFlow.",
+           "We will be building Simple Front End SPA (Single Page Application), using VueJS, Host it on Github and then Do an Action on Google where we will be doing a simple Web Scraping that will make the Google Assistant return the content of the SPA created.",
+           "All in all, it is going to be a ZERO to HERO 55 Minutes Codelab",
+           "*** REQUIREMENTS:- ***",
+           "1. Bring Your Laptop",
+           "2. Bring Your Charger",
+           "3. Bring Your Smile !!",
+           "See You There .."
+        ],
         "speaker": "Nabil Mohammed",
         "company": "GDGAddis",
         "type": "Codelab",
