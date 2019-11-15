@@ -155,7 +155,7 @@
     "programs": [
       {
         "time": "11:35 AM",
-        "topic": "Why People Belive They Can't do it",
+        "topic": "Hardware programming and it's simplicity to start",
         "description": ["It is all about why people they believe they can't do any technology, draw a picture or adapt new technology and do as there own, and to prove that they can do anything if they follow some particular steps and to show them how the current technology in processor design does .beside this to demonstrate how they design a chip (IC) at list some part with some steps.",
         "Notes and comments:",
         "I am planning to give the session in an interactive way by giving some motivation and how I came into this position from my life experience and how they can do easily by finally to show them some coding workshop in VHDL programming about ALU design. so I need all participants to have one paper for some activity and also a ModelSim and Xilinx software on there own laptop. if you did not have one I can give you the software befor the program. finally i need a paper chart."
