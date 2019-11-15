@@ -202,24 +202,27 @@
   },
   {
     "name": "Nabil Mohammed",
-    "job": "Programmer & Digital Marketing Manager at Addis Software PLC",
+    "job": "Programmer at GDGAddis & Digital Marketing Manager at Addis Software PLC",
     "photo": "devfest/speakers/Nabil.jpg",
     "company": "GDGAddis",
     "email": "nabil.alanssi19@gmail.com",
     "twitter": "https://twitter.com/alanssinabil19",
+    "facebook": "https://m.facebook.com/ansi.nabiloo20",
     "linkdin": "https://www.linkedin.com/in/nabiloo19",
     "blog": "https://medium.com/@nabil.alanssi19",
     "website": "https://www.gdgaddis.dev/team",
     "bio": [
-      "A passionate computer science student who likes to solve problems and look for ways to do that using technology."
+      "A passionate computer science student who likes to solve problems and look for innovative ways to do that using technology. He is the Social Media Manager of GDG Addis & the Digital Marketing Manager at Addis Software PLC",
+      "He is a VueJS Developer who is an Open-Source Projects Advocate as well as a Cyber Security Enthusiast and a Tech Savvy",
+      "He likes to share his experiences through writing blogs and spend time playing video games, reading, watching movies, and visit several places!"
     ]
   },
   {
     "name": "Rediet Demisse",
-    "job": "Programmer& Software Engineer",
+    "job": "Programmer& Software Engineer Student at AASTU",
     "photo": "devfest/speakers/rediet.jpg",
     "company": "GDG Addis",
-    "email": "",
+    "email": "redidemisse22@gmail.com",
     "twitter": "",
     "linkdin": "",
     "blog": "",
