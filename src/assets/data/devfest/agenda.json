@@ -126,7 +126,7 @@
       {
         "time": "3:00 PM",
         "topic": "TenserFlow CodeLab",
-        "description": ["Let's Use TenserFlow and Build AI featured App"],
+        "description": ["This session is for people that are comfortable with programming and want to dive into AI development. we show how to develop and the best practices used when developing ML applications."],
         "speaker": "Gemmechu & Bethel",
         "company": "",
         "type": "Codelab",
@@ -253,8 +253,11 @@
     "programs": [
       {
         "time": "11:35 AM",
-        "topic": "AR Core and Emmersive Technologies",
-        "description": ["[TBD]"],
+        "topic": "ARCore and Application of Immersive Technologies",
+        "description": ["Despite early-stage virtual reality market and augmented reality market valuations softening in a transitional period, total global AR/VR startup valuations are now at $45 billion globally. The question will be how much do we involve in such a big market? Do we have enough talent? Do we have a startup idea focusing on these technologies? Is there interested investor yet in Africa? What possibilities does the technology brings towards to African tech industry?",
+        "During our session, we will try to explore among one of the best technologies by Google called ARCore. There will be a brief introduction to the latest features with real world applications. Also, we will announce few of our startup idea projects (by Guzomap) and how we utilize several tools. Our platform allows deploying VR/AR/XR apps across all platforms specially with the help of Google technologies."
+        
+        ],
         "speaker": "Daniel Getachew",
         "company": "Guzo Technologies",
         "type": "workshop",

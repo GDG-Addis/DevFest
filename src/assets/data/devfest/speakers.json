@@ -48,15 +48,17 @@
   },
   {
     "name": "Daniel Getachew",
-    "job": "Full-Stack Developer",
+    "job": "Full-stack Software Developer & CEO/Founder Guzo Technologies",
     "photo": "devfest/speakers/daniel.jpg",
     "company": "Guzo Technologies",
-    "email": "",
-    "twitter": "",
-    "linkdin": "",
+    "email": "tech@danidpx.com",
+    "twitter": "http://twitter.com/danidpx",
+    "linkdin": " https://www.linkedin.com/in/danidpx",
     "blog": "",
-    "website": "",
-    "bio": []
+    "website": "danidpx.com",
+    "bio": [
+      "Daniel Getachew is the Founder and CEO of Guzo Technologies, an IT services and Media startup company reside in Ethiopia that highly focused on VR/AR and IoT products. Daniel is also an Independent Contractor and Trainer at Gebeya Inc., A new-age EdTech and Marketplace IT company. Daniel made and contributed several software projects to several local and abroad clients. Daniel holds MSc in Software Engineering from Adama Science and Technology University and a BSc in Computer Science from Madaa Walabu University."
+    ]
   },
   {
     "name": "Biniam Yayehyirad",
@@ -176,11 +178,11 @@
     "job": "Lead Organizer at GDG Addis - CEO and CoFounder of iBrave Software PLC",
     "photo": "devfest/speakers/melake.jpg",
     "company": "iBrave",
-    "email": "",
-    "twitter": "",
-    "linkdin": "",
+    "email": "melake@ibrave.dev",
+    "twitter": "https://twitter.com/MelakeWubshet",
+    "linkdin": "https://www.linkedin.com/in/melake-wubshet-942b47b1/",
     "blog": "",
-    "website": "",
+    "website": "https://gdgaddis.dev",
     "bio": [
       "Melake Wubshet has a BSc in Software Engineering from AAiT. He is the CEO/Cofounder of iBrave Software Engineering. He also is a lead community organizer at GDG Addis, a community of passionate tech-savvy people.",
       "He was working at CNET Software Technologies as a senior developer for two and half years. He has a solid skill on Backend development using ASP.NET Core and Frontend Develpoment using Vue Js. He is very passionate on AI/Machine Learning, Computer Vision, Robotics and Electronics"
@@ -188,15 +190,15 @@
   },
   {
     "name": "Bethel Roger",
-    "job": "Programmer",
+    "job": "iCog-Labs part time software engineer",
     "photo": "devfest/speakers/bethel.jpg",
     "company": "GDG Addis",
-    "email": "",
+    "email": "bethelroger33@gmail.com",
     "twitter": "",
     "linkdin": "",
     "blog": "",
     "website": "",
-    "bio": []
+    "bio": ["Bethel R. Hall is a 4th year software engineering student, and a part-time software programmer at iCog-Labs. He is passionate about Machine Learning and has worked in several AI projects. He loves working with people and sharing his experiences and knowledge widely."]
   },
   {
     "name": "Nabil Mohammed",
@@ -250,14 +252,14 @@
   },
   {
     "name": "Gemmechu Mohammed",
-    "job": "Programmer",
+    "job": "ITSC,AAIT Student",
     "photo": "devfest/speakers/gemmechu.jpg",
     "company": "GDG Addis",
-    "email": "",
-    "twitter": "",
-    "linkdin": "",
+    "email": "gemmechumohammed@gmail.com",
+    "twitter": "https://twitter.com/gemmechu2",
+    "linkdin": "https://linkedin.com/in/gemmechu-mohammed",
     "blog": "",
     "website": "",
-    "bio": []
+    "bio": ["Gemmechu Mohammed is 4th software Student and part-time software programmer at iCog-Labs. he has been organizing seminars hackathons and conferences within university and in country at large. and as tech enthusiast he believes sharing and collaboration is the key to success."]
   }
 ]

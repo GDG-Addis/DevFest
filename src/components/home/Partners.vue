@@ -110,6 +110,7 @@
                         tile
                         class="d-flex pa-2 ma-1 elevation-1"
                         style="border-radius:4px;border-width: 0px; border-style: solid;"
+                        
                       >
                         <a v-bind:href="itemp.link" target="_blank">
                           <v-tooltip bottom>
@@ -120,6 +121,7 @@
                                 aspect-ratio="3.0"
                                 class="white"
                                 v-on="on"
+                                height="60"
                                 contain
                               >
                                 <v-layout

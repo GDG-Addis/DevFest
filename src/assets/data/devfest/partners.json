@@ -20,12 +20,17 @@
         {
             "name": "Eliana Hotel",
             "link": "https://www.elianahotel.com/",
-            "img": "eliana_hotel.png"
+            "img": "grand_eliana.jpg"
         },
         {
             "name": "iBrave Software Engineering",
             "link": "https://ibrave.dev/",
             "img": "ibrave.png"
+        },
+        {
+            "name": "AAU UILTT Office",
+            "link": "http://www.aau.edu.et/",
+            "img": "aau.png"
         }
     ]
 }
