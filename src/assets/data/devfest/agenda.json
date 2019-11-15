@@ -24,7 +24,7 @@
         "company": "Google",
         "type": "Keynote",
         "photos": ["devfest/speakers/anwal.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-microphone",
         "isBreak": false
       },
@@ -36,7 +36,7 @@
         "company": "Qure.ai",
         "type": "Keynote",
         "photos": ["devfest/speakers/rohit_ghosh.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-microphone",
         "isBreak": false
       },
@@ -51,7 +51,7 @@
         "company": "MiltoLabs Ethiopia",
         "type": "Keynote",
         "photos": ["devfest/speakers/kaleab_zelealem.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-microphone",
         "isBreak": false
       },
@@ -63,7 +63,7 @@
         "company": "",
         "type": "Coffee Break",
         "photos": [],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-coffee",
         "isBreak": true
       }
@@ -95,7 +95,7 @@
         "company": "Camara Education",
         "type": "Lighting Talk",
         "photos": ["devfest/speakers/biniam_yayehyirad.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-voice",
         "isBreak": false
       },
@@ -107,7 +107,7 @@
         "company": "",
         "type": "",
         "photos": [],
-        "tequirements": "",
+        "Requirements": "",
         "icon": "mdi-food",
         "isBreak": true
       },
@@ -119,7 +119,7 @@
         "company": "Qure.ai",
         "type": "Workshop",
         "photos": ["devfest/speakers/rohit_ghosh.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-laptop",
         "isBreak": false
       },
@@ -131,7 +131,7 @@
         "company": "",
         "type": "Codelab",
         "photos": ["devfest/speakers/gemmechu.jpg", "devfest/speakers/bethel.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-xml",
         "isBreak": false
       },
@@ -143,7 +143,7 @@
         "company": "iBrave",
         "type": "Workshop",
         "photos": ["devfest/speakers/melake.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-laptop",
         "isBreak": false
       }
@@ -176,7 +176,7 @@
         "company": "Instant Systems",
         "type": "Workshop",
         "photos": ["devfest/speakers/Muluadam_Temesgen.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-laptop",
         "isBreak": false
       },
@@ -188,7 +188,7 @@
         "company": "",
         "type": "",
         "photos": [],
-        "tequirements": "",
+        "Requirements": "",
         "icon": "mdi-food",
         "isBreak": true
       },
@@ -203,7 +203,7 @@
         "company": "",
         "type": "workshop",
         "photos": ["devfest/speakers/dawit.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-laptop",
         "isBreak": false
       },
@@ -238,7 +238,7 @@
         "company": "GDGAddis",
         "type": "Codelab",
         "photos": ["devfest/speakers/Nabil.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-xml",
         "isBreak": false
       },
@@ -250,7 +250,7 @@
         "company": "",
         "type": "Codelab",
         "photos": ["devfest/speakers/habib_mohammed.jpg","devfest/speakers/rediet.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-xml",
         "isBreak": false
       }
@@ -264,9 +264,7 @@
         "time": "11:35 AM",
         "topic": "ARCore and Application of Immersive Technologies",
         "description": ["Despite early-stage virtual reality market and augmented reality market valuations softening in a transitional period, total global AR/VR startup valuations are now at $45 billion globally. The question will be how much do we involve in such a big market? Do we have enough talent? Do we have a startup idea focusing on these technologies? Is there interested investor yet in Africa? What possibilities does the technology brings towards to African tech industry?",
-        "During our session, we will try to explore among one of the best technologies by Google called ARCore. There will be a brief introduction to the latest features with real world applications. Also, we will announce few of our startup idea projects (by Guzomap) and how we utilize several tools. Our platform allows deploying VR/AR/XR apps across all platforms specially with the help of Google technologies."
-        
-        ],
+        "During our session, we will try to explore among one of the best technologies by Google called ARCore. There will be a brief introduction to the latest features with real world applications. Also, we will announce few of our startup idea projects (by Guzomap) and how we utilize several tools. Our platform allows deploying VR/AR/XR apps across all platforms specially with the help of Google technologies."],
         "speaker": "Daniel Getachew",
         "company": "Guzo Technologies",
         "type": "workshop",
@@ -285,7 +283,7 @@
         "company": "",
         "type": "",
         "photos": [],
-        "tequirements": "",
+        "Requirements": "",
         "icon": "mdi-food",
         "isBreak": true
       },
