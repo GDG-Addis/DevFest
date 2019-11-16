@@ -10,8 +10,7 @@
         "speaker": "GDG Addis team",
         "company": "GDG Addis",
         "type": "",
-        "photos": [
-        ],
+        "photos": [],
         "Requirements": "Meetup reservation is required",
         "icon": "mdi-pencil",
         "isBreak": false
@@ -19,7 +18,9 @@
       {
         "time": "9:30 AM",
         "topic": "DevFest: More than just an Event",
-        "description": ["Keynote will be around stories from DevFest from across the world"],
+        "description": [
+          "Keynote will be around stories from DevFest from across the world"
+        ],
         "speaker": "Auwal MS",
         "company": "Google",
         "type": "Keynote",
@@ -31,7 +32,9 @@
       {
         "time": "10:00 AM",
         "topic": "Building AI: What it really takes?",
-        "description": ["Everyone is talking about building AI Systems. After a brief explanation of MLPs But AI models are all available on TF/Pytorch/Scikit etc. No one is talking about what goes into a real-life building of an AI system that is commercialised in real life systems. Things like when you should not use ML but rather rule-based system, how to frame a problem statement, how to think about data collection (the practical challenges) and solve those issues, how to build AI systems by going out in real world and incorporating aspects of real-life decision-making aspects into AI system building and finally what separates a rockstar data scientist from just a data scientist"],
+        "description": [
+          "Everyone is talking about building AI Systems. After a brief explanation of MLPs But AI models are all available on TF/Pytorch/Scikit etc. No one is talking about what goes into a real-life building of an AI system that is commercialised in real life systems. Things like when you should not use ML but rather rule-based system, how to frame a problem statement, how to think about data collection (the practical challenges) and solve those issues, how to build AI systems by going out in real world and incorporating aspects of real-life decision-making aspects into AI system building and finally what separates a rockstar data scientist from just a data scientist"
+        ],
         "speaker": "Rohit Ghosh",
         "company": "Qure.ai",
         "type": "Keynote",
@@ -58,7 +61,9 @@
       {
         "time": "11:05 AM",
         "topic": "Coffee Break",
-        "description":[ "Group Photo, VR Experience, Networking, Fun Activites"],
+        "description": [
+          "Group Photo, VR Experience, Networking, Fun Activites"
+        ],
         "speaker": "",
         "company": "",
         "type": "Coffee Break",
@@ -76,13 +81,13 @@
       {
         "time": "11:35 AM",
         "topic": "Building an Bulk SMS Dashboard with Angular, Africa's Talking, HapiJS and Firebase",
-        "description": ["This session will introduce developers to building SMS based solutions that allow businesses to reach out to customers using SMS. This demo will use Angular, Firebase, HapiJS and Africa's Talking APIs for SMS"],
+        "description": [
+          "This session will introduce developers to building SMS based solutions that allow businesses to reach out to customers using SMS. This demo will use Angular, Firebase, HapiJS and Africa's Talking APIs for SMS"
+        ],
         "speaker": "Anthony Kiplimo",
         "company": "Decoded Africa",
         "type": "Workshop",
-        "photos": [
-          "devfest/speakers/anthony.jpg"
-        ],
+        "photos": ["devfest/speakers/anthony.jpg"],
         "Requirements": "Meetup reservation is required",
         "icon": "mdi-laptop",
         "isBreak": false
@@ -90,7 +95,9 @@
       {
         "time": "12:15 PM",
         "topic": "AI In Education For The Blind",
-        "description": ["AI has the potential to make education better for all, including for the blind. We at Camara want to make sure that no child is left behind in education, but the current solutions available for the blind can and need to be improved. Sharing from our experience, what are the challenges and how can we address them?"],
+        "description": [
+          "AI has the potential to make education better for all, including for the blind. We at Camara want to make sure that no child is left behind in education, but the current solutions available for the blind can and need to be improved. Sharing from our experience, what are the challenges and how can we address them?"
+        ],
         "speaker": "Biniyam Yayehyirad",
         "company": "Camara Education",
         "type": "Lighting Talk",
@@ -102,7 +109,9 @@
       {
         "time": "12:45 PM",
         "topic": "Lunch Break",
-        "description": ["Lunch, Group Photo, VR Experience, Networking, Fun Activites"],
+        "description": [
+          "Lunch, Group Photo, VR Experience, Networking, Fun Activites"
+        ],
         "speaker": "",
         "company": "",
         "type": "",
@@ -114,7 +123,9 @@
       {
         "time": "2:00 PM",
         "topic": "Building Trustable AI : Interpreting AI Decision",
-        "description": ["Everyone tends to talk about AI as a black-box. But in truth, AI is not anymore a black-box and is more easily interpretable than before. Currently all deep learning models can be interpreted in a good way and the session discusses techniques (both perturbation and gradient based methods) to interpret deep neural networks as well as simple machine learning methods for more transparent and trustable AI systems"],
+        "description": [
+          "Everyone tends to talk about AI as a black-box. But in truth, AI is not anymore a black-box and is more easily interpretable than before. Currently all deep learning models can be interpreted in a good way and the session discusses techniques (both perturbation and gradient based methods) to interpret deep neural networks as well as simple machine learning methods for more transparent and trustable AI systems"
+        ],
         "speaker": "Rohit Ghosh",
         "company": "Qure.ai",
         "type": "Workshop",
@@ -126,11 +137,16 @@
       {
         "time": "3:00 PM",
         "topic": "TenserFlow CodeLab",
-        "description": ["This session is for people that are comfortable with programming and want to dive into AI development. we show how to develop and the best practices used when developing ML applications."],
+        "description": [
+          "This session is for people that are comfortable with programming and want to dive into AI development. we show how to develop and the best practices used when developing ML applications."
+        ],
         "speaker": "Gemmechu & Bethel",
         "company": "",
         "type": "Codelab",
-        "photos": ["devfest/speakers/gemmechu.jpg", "devfest/speakers/bethel.jpg"],
+        "photos": [
+          "devfest/speakers/gemmechu.jpg",
+          "devfest/speakers/bethel.jpg"
+        ],
         "Requirements": "Attention is required",
         "icon": "mdi-xml",
         "isBreak": false
@@ -138,7 +154,9 @@
       {
         "time": "4:15 PM",
         "topic": "Firebase + Vue Js",
-        "description": ["How to use the power of Firebase to build high-quality web app and grow your business. We will use vue.js for front-end and will see how to use firebase javascript library to easily integrate, authenticate users (using email link, passwordless, social media), deploy, attach custom domain name and use real-time database."],
+        "description": [
+          "How to use the power of Firebase to build high-quality web app and grow your business. We will use vue.js for front-end and will see how to use firebase javascript library to easily integrate, authenticate users (using email link, passwordless, social media), deploy, attach custom domain name and use real-time database."
+        ],
         "speaker": "Melake Wubshet",
         "company": "iBrave",
         "type": "Workshop",
@@ -156,9 +174,10 @@
       {
         "time": "11:35 AM",
         "topic": "Hardware programming and it's simplicity to start",
-        "description": ["It is all about why people they believe they can't do any technology, draw a picture or adapt new technology and do as there own, and to prove that they can do anything if they follow some particular steps and to show them how the current technology in processor design does .beside this to demonstrate how they design a chip (IC) at list some part with some steps.",
-        "Notes and comments:",
-        "I am planning to give the session in an interactive way by giving some motivation and how I came into this position from my life experience and how they can do easily by finally to show them some coding workshop in VHDL programming about ALU design. so I need all participants to have one paper for some activity and also a ModelSim and Xilinx software on there own laptop. if you did not have one I can give you the software befor the program. finally i need a paper chart."
+        "description": [
+          "It is all about why people they believe they can't do any technology, draw a picture or adapt new technology and do as there own, and to prove that they can do anything if they follow some particular steps and to show them how the current technology in processor design does .beside this to demonstrate how they design a chip (IC) at list some part with some steps.",
+          "Notes and comments:",
+          "I am planning to give the session in an interactive way by giving some motivation and how I came into this position from my life experience and how they can do easily by finally to show them some coding workshop in VHDL programming about ALU design. so I need all participants to have one paper for some activity and also a ModelSim and Xilinx software on there own laptop. if you did not have one I can give you the software befor the program. finally i need a paper chart."
         ],
         "speaker": "Robel Mulugeta",
         "company": "American Center",
@@ -171,7 +190,9 @@
       {
         "time": "12:15 PM",
         "topic": "Web First to Mobile For Successful Business",
-        "description": ["Google services trends passes through PC first, Web First, Mobile First and now moving to AI first. Most of the service in Ethiopia are now delivered in Web,Web First. We have delivered the tender service in web service approch, when we start delivering tender service via Mobile, our business starts sparking."],
+        "description": [
+          "Google services trends passes through PC first, Web First, Mobile First and now moving to AI first. Most of the service in Ethiopia are now delivered in Web,Web First. We have delivered the tender service in web service approch, when we start delivering tender service via Mobile, our business starts sparking."
+        ],
         "speaker": "Muluadam Temesgen",
         "company": "Instant Systems",
         "type": "Workshop",
@@ -183,7 +204,9 @@
       {
         "time": "12:45 PM",
         "topic": "Lunch Break",
-        "description": ["Lunch, Group Photo, VR Experience, Networking, Fun Activites"],
+        "description": [
+          "Lunch, Group Photo, VR Experience, Networking, Fun Activites"
+        ],
         "speaker": "",
         "company": "",
         "type": "",
@@ -195,9 +218,10 @@
       {
         "time": "2:00 PM",
         "topic": "How Automated Testing will make or break your tech startup",
-        "description": ["There's a saying \"Even a blind squirrel finds a nut once in a while.\" I've read it being used to relate developers who don't have automated tests in their projects to blind squirrels. (Both will find bugs/nuts once in a while).",
-        "However, I find that this message distracts developers from the true essence of automated tests. It's really not about quality assurance and discovering of bugs. That's the benefit of \"Testing\". But the \"Automated\" part is more important. You can imagine Automated Testing as the process of building a robot (Let's call him Baymax) that sits down and goes through all the features of your app and notifies you if something is not behaving as it should. And the best part of having Baymax in your team is that he can go through your app way faster than you or your team can. On a large project, Baymax may take a few minutes if not seconds to go through thousands of features while it will take your QA team weeks if not months to do the same.",
-        "In this session we will talk about how having Baymax could make or break your tech startup."
+        "description": [
+          "There's a saying \"Even a blind squirrel finds a nut once in a while.\" I've read it being used to relate developers who don't have automated tests in their projects to blind squirrels. (Both will find bugs/nuts once in a while).",
+          "However, I find that this message distracts developers from the true essence of automated tests. It's really not about quality assurance and discovering of bugs. That's the benefit of \"Testing\". But the \"Automated\" part is more important. You can imagine Automated Testing as the process of building a robot (Let's call him Baymax) that sits down and goes through all the features of your app and notifies you if something is not behaving as it should. And the best part of having Baymax in your team is that he can go through your app way faster than you or your team can. On a large project, Baymax may take a few minutes if not seconds to go through thousands of features while it will take your QA team weeks if not months to do the same.",
+          "In this session we will talk about how having Baymax could make or break your tech startup."
         ],
         "speaker": "Dawit Abraham",
         "company": "",
@@ -210,13 +234,13 @@
       {
         "time": "3:00 PM",
         "topic": "GetCoin",
-        "description": ["GetCoin is a payment gateway.Its like paypal but without credit cards."],
+        "description": [
+          "GetCoin is a payment gateway.Its like paypal but without credit cards."
+        ],
         "speaker": "Meti Germa",
         "company": "GetCoin",
         "type": "Lighting Talk",
-        "photos": [
-          "devfest/speakers/meti_girma.jpg"
-        ],
+        "photos": ["devfest/speakers/meti_girma.jpg"],
         "Requirements": "Meetup reservation is required",
         "icon": "mdi-voice",
         "isBreak": false
@@ -224,16 +248,16 @@
       {
         "time": "3:20 PM",
         "topic": "Actions On Google",
-        "description":[
-           "Building Actions on Google using DialogFlow.",
-           "We will be building an Action on Google using DialogFlow where we will be doing a simple Web Scraping that will make the Google Assistant return the content in that particular.",
-           "All in all, it is going to be a ZERO to HERO 55 Minutes Codelab ..!",
-           "In that waym you will now how to link your webiste to Google Assistant",
-           "*** REQUIREMENTS:- ***",
-           "1. Bring Your Laptop",
-           "2. Bring Your Charger",
-           "3. Bring Your Smile !!",
-           "See You There .."
+        "description": [
+          "Building Actions on Google using DialogFlow.",
+          "We will be building an Action on Google using DialogFlow where we will be doing a simple Web Scraping that will make the Google Assistant return the content in that particular.",
+          "All in all, it is going to be a ZERO to HERO 55 Minutes Codelab ..!",
+          "In that waym you will now how to link your webiste to Google Assistant",
+          "*** REQUIREMENTS:- ***",
+          "1. Bring Your Laptop",
+          "2. Bring Your Charger",
+          "3. Bring Your Smile !!",
+          "See You There .."
         ],
         "speaker": "Nabil Mohammed",
         "company": "GDGAddis",
@@ -250,7 +274,10 @@
         "speaker": "Habib & Redit",
         "company": "",
         "type": "Codelab",
-        "photos": ["devfest/speakers/habib_mohammed.jpg","devfest/speakers/rediet.jpg"],
+        "photos": [
+          "devfest/speakers/habib_mohammed.jpg",
+          "devfest/speakers/rediet.jpg"
+        ],
         "Requirements": "Attention is required",
         "icon": "mdi-xml",
         "isBreak": false
@@ -264,14 +291,14 @@
       {
         "time": "11:35 AM",
         "topic": "ARCore and Application of Immersive Technologies",
-        "description": ["Despite early-stage virtual reality market and augmented reality market valuations softening in a transitional period, total global AR/VR startup valuations are now at $45 billion globally. The question will be how much do we involve in such a big market? Do we have enough talent? Do we have a startup idea focusing on these technologies? Is there interested investor yet in Africa? What possibilities does the technology brings towards to African tech industry?",
-        "During our session, we will try to explore among one of the best technologies by Google called ARCore. There will be a brief introduction to the latest features with real world applications. Also, we will announce few of our startup idea projects (by Guzomap) and how we utilize several tools. Our platform allows deploying VR/AR/XR apps across all platforms specially with the help of Google technologies."],
+        "description": [
+          "Despite early-stage virtual reality market and augmented reality market valuations softening in a transitional period, total global AR/VR startup valuations are now at $45 billion globally. The question will be how much do we involve in such a big market? Do we have enough talent? Do we have a startup idea focusing on these technologies? Is there interested investor yet in Africa? What possibilities does the technology brings towards to African tech industry?",
+          "During our session, we will try to explore among one of the best technologies by Google called ARCore. There will be a brief introduction to the latest features with real world applications. Also, we will announce few of our startup idea projects (by Guzomap) and how we utilize several tools. Our platform allows deploying VR/AR/XR apps across all platforms specially with the help of Google technologies."
+        ],
         "speaker": "Daniel Getachew",
         "company": "Guzo Technologies",
         "type": "workshop",
-        "photos": [
-          "devfest/speakers/daniel.jpg"
-        ],
+        "photos": ["devfest/speakers/daniel.jpg"],
         "Requirements": "Meetup reservation is required",
         "icon": "mdi-laptop",
         "isBreak": false
@@ -279,7 +306,9 @@
       {
         "time": "12:45 PM",
         "topic": "Lunch Break",
-        "description": ["Lunch, Group Photo, VR Experience, Networking, Fun Activites"],
+        "description": [
+          "Lunch, Group Photo, VR Experience, Networking, Fun Activites"
+        ],
         "speaker": "",
         "company": "",
         "type": "",
@@ -291,21 +320,20 @@
       {
         "time": "2:00 PM",
         "topic": "An Introduction to IOS App Development",
-        "description": ["In this workshop you will experience a brief introduction to Xcode, Swift, and Firebase by: building a basic signup and login UI, connecting UI to code, installing and configuring Firebase into your app, creating and authenticating a user via Firebase.", 
-        "Instructions:",
-        "Bring your laptops for a hands on experience.",
-        "If you have a Mac make sure you have Xcode installed before the session.",
-        "If you do not have a Mac, make sure to install the MacOS and Xcode on your device before the session. Follow the following link to see how you can do this:",
-        "https://www.macworld.co.uk/how-to/mac-software/install-macos-pc-3632329/",
-"Notes and comments: ",
-"I will be doing a mini code session, it would save time if all participants without Mac laptops already had the MacOs and or Xcode pre installed on their laptops."
+        "description": [
+          "In this workshop you will experience a brief introduction to Xcode, Swift, and Firebase by: building a basic signup and login UI, connecting UI to code, installing and configuring Firebase into your app, creating and authenticating a user via Firebase.",
+          "Instructions:",
+          "Bring your laptops for a hands on experience.",
+          "If you have a Mac make sure you have Xcode installed before the session.",
+          "If you do not have a Mac, make sure to install the MacOS and Xcode on your device before the session. Follow the following link to see how you can do this:",
+          "https://www.macworld.co.uk/how-to/mac-software/install-macos-pc-3632329/",
+          "Notes and comments: ",
+          "I will be doing a mini code session, it would save time if all participants without Mac laptops already had the MacOs and or Xcode pre installed on their laptops."
         ],
         "speaker": "Yohana Ermias",
         "company": "COITech",
         "type": "Workshop",
-        "photos": [
-          "devfest/speakers/yohana.jpg"
-        ],
+        "photos": ["devfest/speakers/yohana.jpg"],
         "Requirements": "Meetup reservation is required",
         "icon": "mdi-laptop",
         "isBreak": false
@@ -313,17 +341,16 @@
       {
         "time": "3:00 PM",
         "topic": "IoT using TME Education Arduino board",
-        "description": ["TME Education was founded by Transfer Multisort Elektronik, one of the leading global distributors of electronic components based in Poland. The company recognizes the impact the technological advancements have on the labour market",
-        "We will see Sending and controlling sensor values from TME Education Arduino board to Cloud (Firebase)",
-        "Checkout the git-repository in advance: ",
-        "https://github.com/Tesfamichael1074/IOT-code-for-TMEEducation-Arduino-board"
+        "description": [
+          "TME Education was founded by Transfer Multisort Elektronik, one of the leading global distributors of electronic components based in Poland. The company recognizes the impact the technological advancements have on the labour market",
+          "We will see Sending and controlling sensor values from TME Education Arduino board to Cloud (Firebase)",
+          "Checkout the git-repository in advance: ",
+          "https://github.com/Tesfamichael1074/IOT-code-for-TMEEducation-Arduino-board"
         ],
         "speaker": "Tesfamichael Molla",
         "company": "TME Education Ethiopia",
         "type": "Workshop",
-        "photos": [
-          "devfest/speakers/tesfamichael_molla.jpg"
-        ],
+        "photos": ["devfest/speakers/tesfamichael_molla.jpg"],
         "Requirements": "Meetup reservation is required",
         "icon": "mdi-laptop",
         "isBreak": false
@@ -335,9 +362,7 @@
         "speaker": "Fireayehu",
         "company": "GDGAddis",
         "type": "Codelab",
-        "photos": [
-          "devfest/speakers/fre.jpg"
-        ],
+        "photos": ["devfest/speakers/fre.jpg"],
         "Requirements": "Meetup reservation is required",
         "icon": "mdi-xml",
         "isBreak": false
