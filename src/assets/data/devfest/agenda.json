@@ -253,7 +253,7 @@
           "We will be building an Action on Google using DialogFlow where we will be doing a simple Web Scraping that will make the Google Assistant return the content in that particular.",
           "All in all, it is going to be a ZERO to HERO 55 Minutes Codelab ..!",
           "In that way you will now how to link your webiste to Google Assistant",
-          "We will be using Python and its library Flask as well as Negrok and heroku for deployment",
+          "We will be using Python and its library Flask as well as Negrok for deployment",
           " ",
           "*** REQUIREMENTS:- ***",
           "1. Bring Your Laptop",
