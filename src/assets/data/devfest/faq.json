@@ -2,7 +2,7 @@
   "left": [
     {
       "quest": "Dates and location",
-      "answer": "DevFest Addis will take place on the November 23, 2019 from 8AM to 6PM at Grand Eliana Hotel"
+      "answer": "DevFest Addis will take place on the November 23, 2019 from 8AM to 6PM at Grand Eliana Hotel. For the exact location, refer to the 'Venue' tab. If you are still confused or facing a problem, feel free to contact us"
     },
     {
       "quest": "Stay Informed",
@@ -18,7 +18,7 @@
     },
     {
       "quest": "Payment Method",
-      "answer": "We are working on integrating local payment method systems. Stay tuned to our website for updates on this matter. "
+      "answer": "We have set out several sales points around Addis and also through Digital Payment Systems. You can get the tickets from our teams at/around American Center, 5killo Pharma Compound, AASTU, Admas University, Microlink, Unity, Hope and CBE Birr transfer with your phone number. The ticket price is 100 ETB per person. Here is a list of phone numbers you can use to buy the ticket: 1, American Center: 0912762664 :: 2, killo Pharma: 0922854740, 0928970038, 0922085265 :: 3,  Microlink:: 0944130250, 0966320039 :: 4, AASTU: 0933002621 :: 5. Admas: 0930897643 :: 6. Unity: 0937671704 :: 7. Hope: 0923275406 :: 8. CBE Birr Transfer: 0910896772, 0922854740 \nNote: For CBE Birr Transfer, make sure to send SMS with your full name. Once we have received the payment, we will notify you and then you get your ticket anytime."
     }
   ],
   "right": [
@@ -28,7 +28,7 @@
     },
     {
       "quest": "On the Conference and Workshops",
-      "answer": "You must have a valid ticket to attend the conference, and if you are willing to join a workshop, please bring your laptop and charger. For workshop details, please check the Agenda part"
+      "answer": "You must have a valid ticket to attend the conference, and if you are willing to join a workshop/CodeLab, please bring your laptop and charger. For workshop details, please check the Agenda part"
     },
     {
       "quest": "Raffles",
@@ -40,7 +40,7 @@
     },
     {
       "quest": "Prohibitions",
-      "answer": "Smoking is only permitted in designated outdoor smoking areas. And also no solicitation or selling of items or services is allowed at DevFest Addis. Any attendee conducting these activities may be removed from the conference."
+      "answer": "Smoking is only permitted in designated outdoor smoking areas. And also no solicitation or selling of items or services is allowed at DevFest Addis. Any attendee conducting these activities may be removed from the conference. Please, refer to the Code of Conduct section at the Footer Section "
     }
   ]
 }

@@ -38,7 +38,7 @@
           </p>
 
         <v-btn
-          href="https://www.meetup.com/GDG-Addis/events/262076561"
+          href="http://tiny.cc/TicketsDevFest"
           target="_blank"
           class="ma-0 google-font elevation-1"
           color="#1a73e8"

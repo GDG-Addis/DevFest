@@ -224,12 +224,24 @@
       {
         "time": "3:20 PM",
         "topic": "Actions On Google",
-        "description":[ "Integrating Your Website Using DialogFlow With Google Assistant"],
+        "description": [
+          "Building Actions on Google using DialogFlow.",
+          "We will be building an Action on Google using DialogFlow where we will be doing a simple Web Scraping that will make the Google Assistant return the content in that particular.",
+          "All in all, it is going to be a ZERO to HERO 55 Minutes Codelab ..!",
+          "In that way you will now how to link your webiste to Google Assistant",
+          "We will be using Python and its library Flask as well as Negrok for deployment",
+          " ",
+          "*** REQUIREMENTS:- ***",
+          "1. Bring Your Laptop",
+          "2. Bring Your Charger",
+          "3. Bring Your Smile !!",
+          "See You There .."
+        ],
         "speaker": "Nabil Mohammed",
         "company": "GDGAddis",
         "type": "Codelab",
         "photos": ["devfest/speakers/Nabil.jpg"],
-        "tequirements": "Attention is required",
+        "Requirements": "Attention is required",
         "icon": "mdi-xml",
         "isBreak": false
       },

@@ -94,7 +94,7 @@
         <h1 class="display-2 font-weight-thin mb-1" style="color:white;">{{HomeData.devFestTitle}}</h1>
         <span style="color:white;font-size:20px;">{{HomeData.devFestDesc}}</span>
         <v-btn
-          href="https://www.meetup.com/GDG-Addis/events/262076561"
+          href="http://tiny.cc/TicketsDevFest"
           class="mt-4"
           style="color:white;"
           target="_blank"
