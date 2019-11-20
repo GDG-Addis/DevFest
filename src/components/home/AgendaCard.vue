@@ -94,7 +94,7 @@
                     <v-flex xs12 md6>
                       <strong>{{ program.topic }}</strong>
                       <div v-if="!program.isBreak" class="caption mb-2">
-                        By: {{ program.speaker }}
+                        By: {{ program.speaker }} 
                       </div>
                     </v-flex>
                     <v-spacer></v-spacer>

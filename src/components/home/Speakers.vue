@@ -55,10 +55,6 @@
                 <v-icon style="color:#1da1f2">mdi-twitter</v-icon>
               </v-btn>
 
-              <v-btn small flat icon :href="s.facebook" target="_blank">
-                <v-icon style="color:#3b5998">mdi-facebook</v-icon>
-              </v-btn>
-
               <v-btn small flat icon :href="s.linkdin" target="_blank">
                 <v-icon style="color:#007bb6">mdi-linkedin</v-icon>
               </v-btn>

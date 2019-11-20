@@ -10,8 +10,14 @@
             "link": "https://www.womentechmakers.com/",
             "img": "wtm.png"
         }
+        
     ],
     "partners": [
+        {
+            "name": "Addis Software",
+            "link": "",
+            "img": "addis_software.png"
+        },
         {
             "name": "JetBrains",
             "link": "https://www.jetbrains.com/",
@@ -32,5 +38,6 @@
             "link": "http://iltt.aau.edu.et/",
             "img": "aau.png"
         }
+        
     ]
 }

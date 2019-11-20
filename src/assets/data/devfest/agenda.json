@@ -113,14 +113,16 @@
       },
       {
         "time": "2:00 PM",
-        "topic": "Building Trustable AI : Interpreting AI Decision",
-        "description": ["Everyone tends to talk about AI as a black-box. But in truth, AI is not anymore a black-box and is more easily interpretable than before. Currently all deep learning models can be interpreted in a good way and the session discusses techniques (both perturbation and gradient based methods) to interpret deep neural networks as well as simple machine learning methods for more transparent and trustable AI systems"],
-        "speaker": "Rohit Ghosh",
-        "company": "Qure.ai",
-        "type": "Workshop",
-        "photos": ["devfest/speakers/rohit_ghosh.jpg"],
+        "topic": "Venture Capitlalism",
+        "description": ["a panel discussion on venture captial which is a new to our country. Venture capital is a form of private equity and a type of financing that investors provide to startup companies and small businesses that are believed to have long-term growth potential.", 
+        "Do you have any questions regarding how to start a venture captial? Join this panel discussion to ask your question and get the fundamental idea."
+        ],
+        "speaker": "Noel Daniel, Dawit Tilahun, Bruck Sewent",
+        "company": "Kudu Ventures, Lucy Partners, Tech&Tunes Afro FM Show",
+        "type": "Panel Discussion",
+        "photos": ["devfest/speakers/noel.jpg"],
         "tequirements": "Attention is required",
-        "icon": "mdi-laptop",
+        "icon": "mdi-voice",
         "isBreak": false
       },
       {

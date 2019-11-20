@@ -103,6 +103,24 @@
     ]
   },
   {
+    "name": "Noel Daniel",
+    "job": "Co-Founder & Managing Partner, Kudu Ventures",
+    "photo": "devfest/speakers/noel.jpg",
+    "company": "Kudu Ventures",
+    "email": "noel@kuduventures.com",
+    "twitter": "https://twitter.com/noelkudu",
+    "linkdin": "https://www.linkedin.com/in/noeldabebe/",
+    "blog": "",
+    "website": "http://kuduventures.com/",
+    "bio": [
+      "Noel grew up in Frankfurt, Germany and lived in Addis Ababa before finishing his education in the U.S.",
+      "His international background and deep understanding of community prompted him to launch “Network to Net worth” a social enterprise that fosters meaningful relationships through curated Q&A panels and networking mixers.",
+      "Since 2017, NTN has hosted a dozen events with over 23 panelist and over 1300 attendees.",
+      "He most recently co-founded Kudu Ventures (First Ethiopian VC) – an impact driven venture capital firm with over $3M in committed funds to invest in promising founders and homegrown startups that are coming up with local solutions to local problems."
+
+    ]
+  },
+  {
     "name": "Tesfamichael Molla",
     "job": "TME Education ambassador in Ethiopia",
     "photo": "devfest/speakers/tesfamichael_molla.jpg",
@@ -255,7 +273,7 @@
   },
   {
     "name": "Gemmechu Mohammed",
-    "job": "ITSC,AAIT Student",
+    "job": "Icog Part-time software engineer, ITSC-Inspire Lead",
     "photo": "devfest/speakers/gemmechu.jpg",
     "company": "GDG Addis",
     "email": "gemmechumohammed@gmail.com",
